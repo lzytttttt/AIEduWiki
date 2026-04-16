@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pip3 install mkdocs mkdocs-material && python3 scripts/prebuild.py && mkdocs build",
+  "buildCommand": "pip3 install mkdocs mkdocs-material && python3 scripts/prebuild.py && python3 -m mkdocs build",
   "outputDirectory": "site",
   "installCommand": "pip3 install mkdocs mkdocs-material",
   "framework": null
