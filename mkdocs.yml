@@ -1,0 +1,87 @@
+site_name: AI in Education Wiki
+site_description: AI in Education 前沿进展、研究论文、产品应用、政策与伦理
+site_author: OpenClaw Wiki
+site_url: https://ai-edu-wiki.vercel.app
+
+repo_name: YOUR_GITHUB_USERNAME/edu-wiki
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/edu-wiki
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 浅色模式
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.extra
+  - pymdownx.tilde
+
+nav:
+  - 首页: index.md
+  - 概念:
+      - concepts/AI学术诚信与隐瞒行为.md
+      - concepts/自适应学习系统.md
+      - concepts/知识追踪.md
+      - concepts/教学智能体.md
+      - concepts/自动选择题生成.md
+      - concepts/教育公平与偏见.md
+      - concepts/协作学习仿真.md
+      - concepts/AI写作辅助与拥有感.md
+      - concepts/学生主导AI政策.md
+  - 实体:
+      - entities/Yiran-Du研究团队.md
+      - entities/CausaDisco.md
+      - entities/Edu-MMBias.md
+      - entities/PAL.md
+  - 对比:
+      - comparisons/AI教育研究方法对比.md
+  - 规范: SCHEMA.md
+
+plugins:
+  - search:
+      lang:
+        - en
+        - zh
+
+docs_dir: wiki
+site_dir: site
+
+exclude_docs: |
+  node_modules/
+  _archive/
+  raw/
+  server.js
+  package.json
+  package-lock.json
+  server.log
+  prebuild.py
+  .git/
