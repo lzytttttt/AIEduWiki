@@ -1,3 +1,12 @@
+---
+title: Generating MCQs with Interpretable Difficulty Estimation using Knowledge Graphs + LLMs
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [automated-grading, knowledge-graph, llm-education, nlp, adaptive-learning]
+sources: []
+---
+
 # Generating MCQs with Interpretable Difficulty Estimation using Knowledge Graphs + LLMs
 
 **arXiv:** 2604.10748v1 | **Published:** 2026-04-12 | **Cats:** cs.CL, cs.AI, cs.LG

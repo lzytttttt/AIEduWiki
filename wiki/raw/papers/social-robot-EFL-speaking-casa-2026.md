@@ -1,3 +1,12 @@
+---
+title: Social Robot for EFL Speaking Practice — CASA Paradigm
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [social-robot, language-learning, tam, llm-education, k12]
+sources: []
+---
+
 # Social Robot for EFL Speaking Practice — CASA Paradigm
 
 **arXiv:** 2604.12789v1 | **Published:** 2026-04-14 | **Cats:** cs.HC

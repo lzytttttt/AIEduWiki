@@ -1,0 +1,178 @@
+/* Edu-Wiki 自定义样式 - 概念卡片网格 */
+
+/* 在核心概念h2后面的admonition.concept使用columns布局 */
+.md-typeset h2[id="_1"] ~ .admonition.concept {
+  column-count: 3;
+  column-gap: 1.5rem;
+}
+
+/* 概念admonition卡片 */
+.admonition.concept {
+  break-inside: avoid;
+  margin: 0 0 1rem 0 !important;
+  padding: 1.25rem !important;
+  border-radius: 12px !important;
+  border-left: none !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08) !important;
+  background: var(--md-default-bg-color) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+.admonition.concept:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12) !important;
+}
+
+/* 概念标题样式 */
+.admonition.concept > .admonition-title {
+  font-size: 1.05rem !important;
+  font-weight: 700 !important;
+  color: var(--md-primary-fg-color) !important;
+  padding-bottom: 0.5rem !important;
+  margin-bottom: 0.75rem !important;
+  border-bottom: 2px solid var(--md-primary-fg-color--light) !important;
+  background: transparent !important;
+}
+
+.admonition.concept > .admonition-title::before {
+  display: none !important;
+}
+
+/* 概念内容区域 */
+.admonition.concept > p:not(.admonition-title) {
+  margin: 0.25rem 0 !important;
+}
+
+/* 第一行描述 - 去除strong加粗，转为普通文本 */
+.admonition.concept > p:first-of-type:not(.admonition-title) {
+  color: var(--md-default-fg-color);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* 第二行描述 */
+.admonition.concept > p:nth-of-type(2):not(.admonition-title) {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.875rem;
+  margin: 0.5rem 0 !important;
+}
+
+/* 标签链接按钮 */
+.concept-link {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.35rem 0.85rem;
+  background: var(--md-primary-fg-color);
+  color: white !important;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: background 0.2s ease !important;
+}
+
+.concept-link:hover {
+  background: var(--md-primary-fg-color--light) !important;
+  color: white !important;
+}
+
+/* 暗色模式适配 */
+[data-md-color-scheme="slate"] .admonition.concept {
+  background: var(--md-surface-bg-color) !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3) !important;
+}
+
+[data-md-color-scheme="slate"] .admonition.concept:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4) !important;
+}
+
+[data-md-color-scheme="slate"] .admonition.concept > .admonition-title {
+  color: var(--md-primary-fg-color--light) !important;
+}
+
+[data-md-color-scheme="slate"] .admonition.concept > p:first-of-type:not(.admonition-title) {
+  color: var(--md-default-fg-color);
+}
+
+/* 响应式调整 */
+@media (max-width: 900px) {
+  .md-typeset h2[id="_1"] ~ .admonition.concept {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .md-typeset h2[id="_1"] ~ .admonition.concept {
+    column-count: 1;
+  }
+}
+
+/* 实体表格美化 */
+.md-typeset table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  width: 100%;
+}
+
+.md-typeset table th {
+  background: var(--md-primary-fg-color);
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1rem !important;
+}
+
+.md-typeset table td {
+  padding: 0.6rem 1rem !important;
+  vertical-align: top;
+}
+
+.md-typeset table tr:hover td {
+  background: var(--md-primary-fg-color--lightest);
+}
+
+/* 暗色表格 */
+[data-md-color-scheme="slate"] .md-typeset table {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table tr:hover td {
+  background: rgba(255,255,255,0.05);
+}
+
+/* Hero区域样式 */
+.md-typeset > h1:first-of-type {
+  text-align: center;
+  padding: 2rem 0 1rem;
+  font-size: 2.5rem;
+  background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-primary-fg-color--light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.md-typeset > p:first-of-type {
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+/* 分隔线样式 */
+.md-typeset hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--md-default-fg-color--light), transparent);
+  margin: 2rem 0;
+}
+
+/* Section标题 */
+.md-typeset h2 {
+  color: var(--md-primary-fg-color);
+  font-weight: 700;
+  margin-top: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--md-primary-fg-color--light);
+}

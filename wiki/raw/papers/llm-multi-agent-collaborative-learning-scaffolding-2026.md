@@ -1,3 +1,12 @@
+---
+title: LLM Multi-Agent Simulation for Collaborative Learning Scaffolding
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [multi-agent, collaborative-learning, scaffolding, llm-education, simulation]
+sources: []
+---
+
 # LLM Multi-Agent Simulation for Collaborative Learning Scaffolding
 
 **arXiv:** 2604.11161v1 | **Published:** 2026-04-13 | **Cats:** cs.HC, cs.MA

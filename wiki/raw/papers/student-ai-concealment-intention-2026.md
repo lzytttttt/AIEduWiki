@@ -1,3 +1,12 @@
+---
+title: Students' AI Use Concealment Intention in Higher Education
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [academic-integrity, ethics, policy, higher-ed, llm-education]
+sources: []
+---
+
 # Students' AI Use Concealment Intention in Higher Education
 
 **arXiv:** 2604.10978v1 | **Published:** 2026-04-13 | **Cats:** cs.HC, cs.AI

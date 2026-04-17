@@ -1,3 +1,12 @@
+---
+title: PAL: Personal Adaptive Learner
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [adaptive-learning, moocs, multimodal, personalized-learning, intelligent-tutoring]
+sources: []
+---
+
 # PAL: Personal Adaptive Learner
 
 **arXiv:** 2604.13017v1 | **Published:** 2026-04-14 | **Cats:** cs.AI, cs.HC

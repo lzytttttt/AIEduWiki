@@ -1,3 +1,12 @@
+---
+title: RAG-KT: Cross-platform Explainable Knowledge Tracing with Multi-view Fusion
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [knowledge-tracking, llm-education, knowledge-graph, adaptive-learning]
+sources: []
+---
+
 # RAG-KT: Cross-platform Explainable Knowledge Tracing with Multi-view Fusion
 
 **arXiv:** 2604.10960v1 | **Published:** 2026-04-13 | **Cats:** cs.AI

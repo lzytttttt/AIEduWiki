@@ -1,3 +1,12 @@
+---
+title: CausaDisco — Enhanced Self-Learning with Epistemologically-Informed LLM Dialogue
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [self-learning, llm-education, philosophy, epistemology, learning-simulation]
+sources: []
+---
+
 # Enhanced Self-Learning with Epistemologically-Informed LLM Dialogue — CausaDisco
 
 **arXiv:** 2604.10545v1 | **Published:** 2026-04-12 | **Cats:** cs.HC

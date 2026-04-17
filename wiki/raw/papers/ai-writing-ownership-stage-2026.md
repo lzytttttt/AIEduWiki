@@ -1,3 +1,12 @@
+---
+title: AI Writing Support: How Stage Affects Ownership
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [llm-education, writing-assessment, ethics, higher-ed]
+sources: []
+---
+
 # AI Writing Support: How Stage Affects Ownership
 
 **arXiv:** 2604.11009v1 | **Published:** 2026-04-13 | **Cats:** cs.HC

@@ -1,3 +1,12 @@
+---
+title: EAP Students' AI Disclosure Intention
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [academic-integrity, policy, higher-ed, llm-education]
+sources: []
+---
+
 # EAP Students' AI Disclosure Intention
 
 **arXiv:** 2604.10991v1 | **Published:** 2026-04-13 | **Cats:** cs.HC, cs.AI

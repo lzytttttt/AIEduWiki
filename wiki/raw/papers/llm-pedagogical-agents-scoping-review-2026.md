@@ -1,3 +1,12 @@
+---
+title: A Scoping Review of LLM-Based Pedagogical Agents
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [pedagogical-agents, llm-education, intelligent-tutoring, literature-review]
+sources: []
+---
+
 # A Scoping Review of LLM-Based Pedagogical Agents
 
 **arXiv:** 2604.12253v1 | **Published:** 2026-04-14 | **Cats:** cs.AI

@@ -1,3 +1,12 @@
+---
+title: Neural-Symbolic Knowledge Tracing: Responsible-DKT
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [knowledge-tracking, neural-symbolic, adaptive-learning, intelligent-tutoring]
+sources: []
+---
+
 # Neural-Symbolic Knowledge Tracing: Responsible-DKT
 
 **arXiv:** 2604.08263v1 | **Published:** 2026-04-09 | **Cats:** cs.AI

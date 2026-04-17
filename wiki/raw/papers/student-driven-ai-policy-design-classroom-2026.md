@@ -1,3 +1,12 @@
+---
+title: Student-Driven AI Policy in Design Classroom
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [policy, higher-ed, ethics, student-engagement, llm-education]
+sources: []
+---
+
 # Student-Driven AI Policy in Design Classroom
 
 **arXiv:** 2604.10851v1 | **Published:** 2026-04-12 | **Cats:** cs.HC

@@ -31,6 +31,9 @@ theme:
     - content.code.copy
     - content.code.annotate
 
+extra_css:
+  - assets/custom.css
+
 markdown_extensions:
   - meta
   - toc:

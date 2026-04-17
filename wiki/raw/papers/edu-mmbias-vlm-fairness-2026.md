@@ -1,3 +1,12 @@
+---
+title: Edu-MMBias: VLM Bias in Educational Decision-Making
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [fairness, bias, vlm, ethics, model-evaluation]
+sources: []
+---
+
 # Edu-MMBias: VLM Bias in Educational Decision-Making
 
 **arXiv:** 2604.10200v2 | **Published:** 2026-04-11 | **Cats:** cs.AI, cs.CV

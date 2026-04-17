@@ -1,3 +1,12 @@
+---
+title: Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation
+created: 2026-04-16
+updated: 2026-04-16
+type: summary
+tags: [multi-agent, adaptive-learning, mathematics, personalized-learning, intelligent-tutoring]
+sources: []
+---
+
 # Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation
 
 **arXiv:** 2604.12066v1 | **Published:** 2026-04-13 | **Cats:** cs.AI, cs.CY
