@@ -104,6 +104,62 @@
     
     [→ 了解更多](/concepts/诊断推理与LLM智能体/){ .concept-link }
 
+!!! concept "个性化工作例生成"
+    **根据学生代码错误模式自动生成针对性工作例**
+    
+    AST-based KC提取 + KC条件化生成
+    
+    [→ 了解更多](/concepts/个性化工作例生成/){ .concept-link }
+
+!!! concept "教育游戏自动生成"
+    **将教师提问自动转化为可玩的、基于教学法的教育游戏**
+    
+    分层多智能体 + Bloom's Taxonomy对齐
+    
+    [→ 了解更多](/concepts/教育游戏自动生成/){ .concept-link }
+
+!!! concept "教学化身与教师存在感"
+    **生成式AI创建虚拟教师形象，恢复异步教学中的教师存在感**
+    
+    OpenVoice + TalkingHead 多模态合成
+    
+    [→ 了解更多](/concepts/教学化身与教师存在感/){ .concept-link }
+
+!!! concept "AI辅助代码审查与自我调节学习"
+    **LLM作为代码审查者嵌入GitHub PR，培养自我调节学习能力**
+    
+    两届学生验证，32-33%响应率
+    
+    [→ 了解更多](/concepts/AI辅助代码审查与自我调节学习/){ .concept-link }
+
+!!! concept "可解释学生行为诊断对话系统"
+    **AI对话辅助诊断学生问题行为，并输出可解释推荐理由**
+    
+    Hierarchical Attribution + xAI，医生信任度提升
+    
+    [→ 了解更多](/concepts/可解释学生行为诊断对话系统/){ .concept-link }
+
+!!! concept "英语口语分级生成系统"
+    **LLM根据学习者熟练度动态调整口语对话难度**
+    
+    四级分级 + DDPO算法保持多样性与质量
+    
+    [→ 了解更多](/concepts/英语口语分级生成系统/){ .concept-link }
+
+!!! concept "STEM论证分组系统"
+    **AI实时分析论证立场和质量，动态分组促进productive argumentation**
+    
+    Prompt工程贡献89%改进，AIED 2026 Full Paper
+    
+    [→ 了解更多](/concepts/STEM论证分组系统/){ .concept-link }
+
+!!! concept "教育合成数据基准"
+    **系统比较传统重采样与深度生成模型在教育数据上的效用-隐私权衡**
+    
+    VAE为最优折衷，AAAI AI4EDU 2026
+    
+    [→ 了解更多](/concepts/教育合成数据基准/){ .concept-link }
+
 ---
 
 ## 实体
@@ -129,6 +185,7 @@
 
 ### 论文
 
+**第一批（2026-04）**
 - `raw/papers/pal-personal-adaptive-learner-2026.md`
 - `raw/papers/llm-pedagogical-agents-scoping-review-2026.md`
 - `raw/papers/multi-agent-personalized-problem-generation-2026.md`
@@ -144,7 +201,20 @@
 - `raw/papers/student-driven-ai-policy-design-classroom-2026.md`
 - `raw/papers/eap-students-ai-disclosure-intention-2026.md`
 
+**第二批（2026-04-28）**
+- `raw/papers/personalized-worked-example-kc-2026.md`
+- `raw/papers/gamed-ai-educational-game-generation-2026.md`
+- `raw/papers/talking-slide-avatars-teaching-2026.md`
+- `raw/papers/transformer-english-reading-ai-2026.md`
+- `raw/papers/arguagent-stem-argumentation-grouping-2026.md`
+- `raw/papers/ai-code-review-self-regulated-learning-2026.md`
+- `raw/papers/controllable-spoken-dialogue-k12-english-2026.md`
+- `raw/papers/explainable-llm-dialogue-student-behavior-aiED2026.md`
+- `raw/papers/university-student-ai-disclosure-cac-2026.md`
+- `raw/papers/synthetic-data-education-resampling-vs-deep-2026.md`
+- `raw/papers/actubench-actuarial-multi-agent-2026.md`
+
 ---
 
 !!! info "最后更新"
-    2026-04-17 | 总页面数: 26
+    2026-04-28 | 总页面数: 45（14→25 papers + 8 new concepts）

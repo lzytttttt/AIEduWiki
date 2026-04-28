@@ -51,15 +51,28 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 概念:
-      - concepts/AI学术诚信与隐瞒行为.md
       - concepts/自适应学习系统.md
       - concepts/知识追踪.md
       - concepts/教学智能体.md
       - concepts/自动选择题生成.md
+      - concepts/AI学术诚信与隐瞒行为.md
       - concepts/教育公平与偏见.md
+      - concepts/学生主导AI政策.md
       - concepts/协作学习仿真.md
       - concepts/AI写作辅助与拥有感.md
-      - concepts/学生主导AI政策.md
+      - concepts/社会机器人与CASA范式.md
+      - concepts/个性化问题生成.md
+      - concepts/学习脚手架.md
+      - concepts/可解释教学编排.md
+      - concepts/诊断推理与LLM智能体.md
+      - concepts/个性化工作例生成.md
+      - concepts/教育游戏自动生成.md
+      - concepts/教学化身与教师存在感.md
+      - concepts/AI辅助代码审查与自我调节学习.md
+      - concepts/可解释学生行为诊断对话系统.md
+      - concepts/英语口语分级生成系统.md
+      - concepts/STEM论证分组系统.md
+      - concepts/教育合成数据基准.md
   - 实体:
       - entities/Yiran-Du研究团队.md
       - entities/CausaDisco.md

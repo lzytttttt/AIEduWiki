@@ -51,3 +51,21 @@
 - AI学术诚信：EAP学生认知-情感-意志三维框架（arXiv:2604.10991）
 - 学生主导AI政策：CHI 2026"叫学生进来"模式扩展（双重标准深层权力问题）
 - 自适应学习系统：GraphMASAL三智能体架构（Diagnostician+Planner+Tutor）
+
+## [2026-04-28] update | 第二批论文灌入 + 8个新概念
+- Raw papers：新增11篇（arXiv 2026-04-22~27），涵盖：
+  - 个性化工作例生成（KC-guided，L@S 2026）
+  - GAMED.AI 教育游戏自动生成（分层多智能体）
+  - Talking Slide Avatars 教学化身（异步教学存在感）
+  - Transformer英语阅读理解可解释性（ICBDAEE 2026）
+  - ArguAgent STEM论证分组（AIED 2026 Full Paper）
+  - AI辅助代码审查与自我调节学习（两届学生验证）
+  - 英语口语分级生成系统（K-12非母语英语，DDPO）
+  - 可解释学生行为诊断对话系统（AIED 2026）
+  - 大学生AI披露意愿CAC框架（Yiran-Du团队）
+  - 教育合成数据基准：Resampling vs VAE（AAAI AI4EDU 2026）
+  - ActuBench 精算推理评估多智能体
+- Concepts：新增8个（个性化工作例生成、教育游戏自动生成、教学化身与教师存在感、AI辅助代码审查与自我调节学习、可解释学生行为诊断对话系统、英语口语分级生成系统、STEM论证分组系统、教育合成数据基准）
+- index.md：概念从14增至22个
+- mkdocs.yml nav同步更新
+- 总页面数：26 → 45
