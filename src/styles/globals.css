@@ -1,0 +1,328 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   Design System – AIEduWiki
+   ============================================================ */
+
+:root {
+  /* ---- Palette (HSL) ---- */
+  --background: 0 0% 100%;
+  --foreground: 222.2 84% 4.9%;
+  --card: 0 0% 100%;
+  --card-foreground: 222.2 84% 4.9%;
+  --primary: 238.7 83.5% 66.7%;          /* indigo-600 */
+  --primary-foreground: 210 40% 98%;
+  --accent: 258.3 89.3% 66.3%;           /* violet-500 */
+  --accent-foreground: 210 40% 98%;
+  --muted: 210 40% 96.1%;
+  --muted-foreground: 215.4 16.3% 46.9%;
+  --border: 214.3 31.8% 91.4%;
+  --input: 214.3 31.8% 91.4%;
+  --ring: 238.7 83.5% 66.7%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 210 40% 98%;
+  --radius: 0.75rem;
+}
+
+.dark {
+  --background: 222.2 84% 4.9%;
+  --foreground: 210 40% 98%;
+  --card: 222.2 84% 4.9%;
+  --card-foreground: 210 40% 98%;
+  --primary: 238.7 83.5% 66.7%;
+  --primary-foreground: 222.2 84% 4.9%;
+  --accent: 258.3 89.3% 66.3%;
+  --accent-foreground: 222.2 84% 4.9%;
+  --muted: 217.2 32.6% 17.5%;
+  --muted-foreground: 215 20.2% 65.1%;
+  --border: 217.2 32.6% 17.5%;
+  --input: 217.2 32.6% 17.5%;
+  --ring: 238.7 83.5% 66.7%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 210 40% 98%;
+}
+
+/* ---- Tailwind layer overrides ---- */
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-color: hsl(var(--border));
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-size: 16px;
+    line-height: 1.7; /* Chinese reading comfort */
+    font-family: "Inter", "Noto Sans SC", system-ui, -apple-system, sans-serif;
+  }
+
+  ::selection {
+    background-color: hsl(var(--primary) / 0.15);
+    color: hsl(var(--foreground));
+  }
+}
+
+/* ============================================================
+   Prose / MDX Content Styles
+   ============================================================ */
+
+@layer components {
+  /* ---- Typography ---- */
+
+  .prose h1 {
+    text-align: center;
+    padding: 2rem 0 1rem;
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .prose h1 + p {
+    text-align: center;
+    color: hsl(var(--muted-foreground));
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+  }
+
+  .prose h2 {
+    color: hsl(var(--primary));
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid hsl(var(--primary) / 0.2);
+  }
+
+  .prose h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    color: hsl(var(--foreground));
+  }
+
+  .prose p {
+    margin-bottom: 1rem;
+  }
+
+  .prose hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(to right, transparent, hsl(var(--border)), transparent);
+    margin: 2.5rem 0;
+  }
+
+  .prose ul,
+  .prose ol {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+  }
+
+  .prose li {
+    margin-bottom: 0.375rem;
+  }
+
+  .prose blockquote {
+    border-left: 4px solid hsl(var(--primary) / 0.4);
+    background: hsl(var(--muted));
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+    border-radius: 0 var(--radius) var(--radius) 0;
+    color: hsl(var(--muted-foreground));
+  }
+
+  .prose blockquote p:last-child {
+    margin-bottom: 0;
+  }
+
+  .prose code:not(pre code) {
+    background: hsl(var(--muted));
+    padding: 0.15em 0.4em;
+    border-radius: 0.25rem;
+    font-size: 0.875em;
+    font-weight: 500;
+  }
+
+  .prose pre {
+    background: hsl(var(--foreground));
+    color: hsl(var(--background));
+    padding: 1.25rem;
+    border-radius: var(--radius);
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    font-size: 0.875rem;
+    line-height: 1.6;
+  }
+
+  .prose pre code {
+    background: transparent;
+    padding: 0;
+    font-size: inherit;
+  }
+
+  .prose a {
+    color: hsl(var(--primary));
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+  }
+
+  .prose a:hover {
+    color: hsl(var(--accent));
+  }
+
+  .prose img {
+    border-radius: var(--radius);
+    margin: 1.5rem auto;
+    display: block;
+  }
+
+  /* ---- Table beautification ---- */
+
+  .prose table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    margin: 1.5rem 0;
+  }
+
+  .dark .prose table {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .prose table th {
+    background: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+    font-weight: 600;
+    padding: 0.75rem 1rem;
+    text-align: left;
+  }
+
+  .prose table td {
+    padding: 0.6rem 1rem;
+    vertical-align: top;
+    border-bottom: 1px solid hsl(var(--border));
+  }
+
+  .prose table tr:last-child td {
+    border-bottom: none;
+  }
+
+  .prose table tr:hover td {
+    background: hsl(var(--primary) / 0.04);
+  }
+
+  .dark .prose table tr:hover td {
+    background: hsl(var(--primary) / 0.08);
+  }
+
+  /* ---- Concept card grid ---- */
+
+  .concept-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+    margin: 1.5rem 0;
+  }
+
+  @media (max-width: 1024px) {
+    .concept-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 640px) {
+    .concept-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .concept-card {
+    background: hsl(var(--card));
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    padding: 1.25rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .concept-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  }
+
+  .dark .concept-card {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .dark .concept-card:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  }
+
+  .concept-card__title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: hsl(var(--primary));
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 2px solid hsl(var(--primary) / 0.2);
+  }
+
+  .concept-card__description {
+    color: hsl(var(--foreground));
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+  }
+
+  .concept-card__tags {
+    margin-top: 0.75rem;
+  }
+
+  .concept-link {
+    display: inline-block;
+    padding: 0.3rem 0.8rem;
+    background: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: background 0.2s ease;
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .concept-link:hover {
+    background: hsl(var(--accent));
+  }
+}
+
+/* ============================================================
+   Utility helpers
+   ============================================================ */
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

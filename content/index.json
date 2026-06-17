@@ -1,0 +1,672 @@
+{
+  "theory": [
+    {
+      "slug": "AI学术诚信与隐瞒行为",
+      "title": "AI学术诚信与隐瞒行为",
+      "tags": [
+        "学术诚信",
+        "伦理",
+        "政策",
+        "隐私",
+        "高等教育"
+      ]
+    },
+    {
+      "slug": "AI辅助代码审查与自我调节学习",
+      "title": "AI辅助代码审查与自我调节学习",
+      "tags": []
+    },
+    {
+      "slug": "STEM论证分组系统",
+      "title": "STEM论证分组系统",
+      "tags": []
+    },
+    {
+      "slug": "个性化工作例生成",
+      "title": "个性化工作例生成",
+      "tags": []
+    },
+    {
+      "slug": "个性化问题生成",
+      "title": "个性化问题生成",
+      "tags": [
+        "personalization",
+        "multi-agent",
+        "mathematics",
+        "adaptive-learning",
+        "automated-grading"
+      ]
+    },
+    {
+      "slug": "协作学习仿真",
+      "title": "协作学习仿真",
+      "tags": [
+        "collaborative-learning",
+        "multi-agent",
+        "learning-simulation",
+        "llm-education"
+      ]
+    },
+    {
+      "slug": "可解释学生行为诊断对话系统",
+      "title": "可解释学生行为诊断对话系统",
+      "tags": []
+    },
+    {
+      "slug": "可解释教学编排",
+      "title": "可解释教学编排",
+      "tags": [
+        "pedagogical-agents",
+        "interpretability",
+        "multi-agent",
+        "adaptive-learning",
+        "llm-education"
+      ]
+    },
+    {
+      "slug": "学习脚手架",
+      "title": "学习脚手架",
+      "tags": [
+        "scaffolding",
+        "collaborative-learning",
+        "learning-simulation",
+        "pedagogical-agents"
+      ]
+    },
+    {
+      "slug": "学生主导AI政策",
+      "title": "学生主导AI政策",
+      "tags": [
+        "policy",
+        "higher-ed",
+        "ethics"
+      ]
+    },
+    {
+      "slug": "教学化身与教师存在感",
+      "title": "教学化身与教师存在感",
+      "tags": []
+    },
+    {
+      "slug": "教育公平与偏见",
+      "title": "教育公平与偏见",
+      "tags": [
+        "公平性",
+        "偏见",
+        "伦理",
+        "政策",
+        "模型评估"
+      ]
+    },
+    {
+      "slug": "教育合成数据基准",
+      "title": "教育合成数据基准",
+      "tags": []
+    },
+    {
+      "slug": "教育游戏自动生成",
+      "title": "教育游戏自动生成",
+      "tags": []
+    },
+    {
+      "slug": "知识追踪",
+      "title": "知识追踪",
+      "tags": [
+        "知识追踪",
+        "自适应学习",
+        "学习者建模",
+        "模型"
+      ]
+    },
+    {
+      "slug": "社会机器人与CASA范式",
+      "title": "社会机器人与CASA范式",
+      "tags": [
+        "social-robot",
+        "language-learning",
+        "tam",
+        "k12",
+        "llm-education"
+      ]
+    },
+    {
+      "slug": "自适应学习系统",
+      "title": "自适应学习系统",
+      "tags": [
+        "自适应学习",
+        "个性化",
+        "智能辅导",
+        "模型"
+      ]
+    },
+    {
+      "slug": "英语口语分级生成系统",
+      "title": "英语口语分级生成系统",
+      "tags": []
+    },
+    {
+      "slug": "诊断推理与LLM智能体",
+      "title": "诊断推理与LLM智能体",
+      "tags": [
+        "diagnostic-reasoning",
+        "llm-agents",
+        "scaffolding",
+        "metacognition",
+        "learning-science"
+      ]
+    }
+  ],
+  "technology": [
+    {
+      "slug": "AI写作辅助与拥有感",
+      "title": "AI写作辅助与拥有感",
+      "tags": [
+        "writing-assessment",
+        "llm-education",
+        "model"
+      ]
+    },
+    {
+      "slug": "教学智能体",
+      "title": "教学智能体",
+      "tags": [
+        "智能辅导",
+        "LLM教育",
+        "智能体",
+        "模型"
+      ]
+    },
+    {
+      "slug": "自动选择题生成",
+      "title": "自动选择题生成",
+      "tags": [
+        "自动批改",
+        "自然语言处理",
+        "知识图谱",
+        "LLM教育"
+      ]
+    },
+    {
+      "slug": "NLP-in-Education入门",
+      "title": "NLP in Education 入门指南",
+      "tags": [
+        "tutorial",
+        "nlp",
+        "自然语言处理",
+        "llm-education",
+        "入门",
+        "教程"
+      ]
+    },
+    {
+      "slug": "知识追踪入门",
+      "title": "知识追踪入门指南",
+      "tags": [
+        "tutorial",
+        "knowledge-tracking",
+        "知识追踪",
+        "入门",
+        "教程"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "slug": "AIED会议",
+      "title": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "tags": [
+        "conference",
+        "research",
+        "ai-education",
+        "学术会议"
+      ]
+    },
+    {
+      "slug": "ASSISTments团队",
+      "title": "ASSISTments 团队",
+      "tags": [
+        "institution",
+        "research-team",
+        "wpi",
+        "assistments",
+        "educational-data-mining"
+      ]
+    },
+    {
+      "slug": "CausaDisco",
+      "title": "CausaDisco",
+      "tags": [
+        "researcher",
+        "university",
+        "self-learning"
+      ]
+    },
+    {
+      "slug": "CHI会议",
+      "title": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+      "tags": [
+        "conference",
+        "research",
+        "hci",
+        "人机交互",
+        "学术会议"
+      ]
+    },
+    {
+      "slug": "Chris-Piech",
+      "title": "Chris Piech",
+      "tags": [
+        "researcher",
+        "stanford",
+        "knowledge-tracking",
+        "deep-learning"
+      ]
+    },
+    {
+      "slug": "CMU-Learning-Science",
+      "title": "CMU Learning Science Lab",
+      "tags": [
+        "institution",
+        "research-lab",
+        "cmu",
+        "learning-science",
+        "cognitive-tutor"
+      ]
+    },
+    {
+      "slug": "Coursera",
+      "title": "Coursera",
+      "tags": [
+        "edtech",
+        "company",
+        "moocs",
+        "higher-ed",
+        "在线教育"
+      ]
+    },
+    {
+      "slug": "Duolingo-Max",
+      "title": "Duolingo Max",
+      "tags": [
+        "product",
+        "ai-tutor",
+        "language-learning",
+        "llm-education"
+      ]
+    },
+    {
+      "slug": "Duolingo",
+      "title": "Duolingo",
+      "tags": [
+        "edtech",
+        "company",
+        "language-learning",
+        "adaptive-learning",
+        "移动学习"
+      ]
+    },
+    {
+      "slug": "Edmentum",
+      "title": "Edmentum",
+      "tags": [
+        "edtech",
+        "company",
+        "adaptive-learning",
+        "k12",
+        "在线学习"
+      ]
+    },
+    {
+      "slug": "Edu-MMBias",
+      "title": "Edu-MMBias",
+      "tags": [
+        "researcher",
+        "benchmark",
+        "fairness"
+      ]
+    },
+    {
+      "slug": "Emma-Brunskill",
+      "title": "Emma Brunskill",
+      "tags": [
+        "researcher",
+        "stanford",
+        "reinforcement-learning",
+        "adaptive-learning"
+      ]
+    },
+    {
+      "slug": "Kenneth-Koedinger",
+      "title": "Kenneth Koedinger",
+      "tags": [
+        "researcher",
+        "cmu",
+        "cognitive-tutor",
+        "learning-science"
+      ]
+    },
+    {
+      "slug": "Khan-Academy",
+      "title": "Khan Academy",
+      "tags": [
+        "edtech",
+        "company",
+        "adaptive-learning",
+        "k12",
+        "非营利"
+      ]
+    },
+    {
+      "slug": "Khanmigo",
+      "title": "Khanmigo",
+      "tags": [
+        "product",
+        "ai-tutor",
+        "llm-education",
+        "adaptive-learning"
+      ]
+    },
+    {
+      "slug": "LAK会议",
+      "title": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+      "tags": [
+        "conference",
+        "research",
+        "learning-analytics",
+        "学习分析",
+        "学术会议"
+      ]
+    },
+    {
+      "slug": "Neil-Heffernan",
+      "title": "Neil Heffernan",
+      "tags": [
+        "researcher",
+        "wpi",
+        "assistments",
+        "educational-data-mining"
+      ]
+    },
+    {
+      "slug": "OpenAI-Gym-Education",
+      "title": "OpenAI Gym for Education",
+      "tags": [
+        "open-source",
+        "framework",
+        "reinforcement-learning",
+        "仿真"
+      ]
+    },
+    {
+      "slug": "PAL",
+      "title": "PAL (Personalized Adaptive Learner)",
+      "tags": [
+        "model",
+        "adaptive-learning",
+        "moocs"
+      ]
+    },
+    {
+      "slug": "Squirrel-AI-产品",
+      "title": "Squirrel AI 产品 (松鼠AI产品)",
+      "tags": [
+        "product",
+        "ai-tutor",
+        "adaptive-learning",
+        "中国",
+        "k12"
+      ]
+    },
+    {
+      "slug": "Squirrel-AI",
+      "title": "Squirrel AI (松鼠AI)",
+      "tags": [
+        "edtech",
+        "company",
+        "adaptive-learning",
+        "中国",
+        "k12"
+      ]
+    },
+    {
+      "slug": "Stanford-HAI",
+      "title": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "tags": [
+        "institution",
+        "research-lab",
+        "stanford",
+        "ai-education",
+        "人机交互"
+      ]
+    },
+    {
+      "slug": "UNESCO-AI教育",
+      "title": "UNESCO AI 教育倡议",
+      "tags": [
+        "institution",
+        "government",
+        "policy",
+        "ethics",
+        "全球"
+      ]
+    },
+    {
+      "slug": "Xiangen-Hu",
+      "title": "Xiangen Hu",
+      "tags": [
+        "researcher",
+        "memphis",
+        "knowledge-tracking",
+        "中国"
+      ]
+    },
+    {
+      "slug": "Yiran-Du研究团队",
+      "title": "Yiran-Du研究团队",
+      "tags": [
+        "researcher",
+        "university"
+      ]
+    },
+    {
+      "slug": "中国教育部-AI政策",
+      "title": "中国教育部 AI 政策",
+      "tags": [
+        "institution",
+        "government",
+        "policy",
+        "中国",
+        "教育政策"
+      ]
+    },
+    {
+      "slug": "好未来",
+      "title": "好未来 (TAL Education)",
+      "tags": [
+        "edtech",
+        "company",
+        "中国",
+        "k12",
+        "上市公司"
+      ]
+    }
+  ],
+  "insights": [
+    {
+      "slug": "AI教育产品对比",
+      "title": "AI 教育产品对比",
+      "tags": [
+        "comparison",
+        "product",
+        "ai-tutor",
+        "llm-education",
+        "adaptive-learning"
+      ]
+    },
+    {
+      "slug": "AI教育研究方法对比",
+      "title": "AI教育研究方法对比",
+      "tags": [
+        "comparison",
+        "research-method"
+      ]
+    },
+    {
+      "slug": "知识追踪方法对比",
+      "title": "知识追踪方法对比",
+      "tags": [
+        "comparison",
+        "knowledge-tracking",
+        "深度学习",
+        "统计模型",
+        "llm"
+      ]
+    },
+    {
+      "slug": "自适应学习框架对比",
+      "title": "自适应学习框架对比",
+      "tags": [
+        "comparison",
+        "adaptive-learning",
+        "规则驱动",
+        "数据驱动",
+        "llm-education"
+      ]
+    },
+    {
+      "slug": "AI作弊争议",
+      "title": "AI 作弊争议",
+      "tags": [
+        "controversy",
+        "ethics",
+        "学术诚信",
+        "ai-education",
+        "学生行为"
+      ]
+    },
+    {
+      "slug": "AI教育公平性争议",
+      "title": "AI 教育公平性争议",
+      "tags": [
+        "controversy",
+        "ethics",
+        "fairness",
+        "ai-education",
+        "社会公平"
+      ]
+    },
+    {
+      "slug": "AI替代教师争议",
+      "title": "AI 替代教师争议",
+      "tags": [
+        "controversy",
+        "ethics",
+        "教师角色",
+        "ai-education",
+        "社会影响"
+      ]
+    },
+    {
+      "slug": "2020",
+      "title": "2020年 AI 教育发展总览",
+      "tags": [
+        "timeline",
+        2020,
+        "adaptive-learning",
+        "knowledge-tracking",
+        "llm-education"
+      ]
+    },
+    {
+      "slug": "2021",
+      "title": "2021年 AI 教育发展总览",
+      "tags": [
+        "timeline",
+        2021,
+        "adaptive-learning",
+        "knowledge-tracking",
+        "nlp",
+        "multimodal"
+      ]
+    },
+    {
+      "slug": "2022",
+      "title": "2022年 AI 教育发展总览",
+      "tags": [
+        "timeline",
+        2022,
+        "llm-education",
+        "chatgpt",
+        "教育变革"
+      ]
+    },
+    {
+      "slug": "2023",
+      "title": "2023年 AI 教育发展总览",
+      "tags": [
+        "timeline",
+        2023,
+        "llm-education",
+        "gpt-4",
+        "教育产品爆发"
+      ]
+    },
+    {
+      "slug": "2024",
+      "title": "2024年 AI 教育发展总览",
+      "tags": [
+        "timeline",
+        2024,
+        "multi-agent",
+        "个性化",
+        "知识图谱",
+        "深度融合"
+      ]
+    },
+    {
+      "slug": "2025",
+      "title": "2025年 AI 教育发展总览",
+      "tags": [
+        "timeline",
+        2025,
+        "深度融合",
+        "伦理反思",
+        "可解释性"
+      ]
+    },
+    {
+      "slug": "2026",
+      "title": "2026年 AI 教育发展总览",
+      "tags": [
+        "timeline",
+        2026,
+        "多智能体",
+        "可解释性",
+        "个性化",
+        "公平性"
+      ]
+    },
+    {
+      "slug": "知识追踪发展史",
+      "title": "知识追踪发展史",
+      "tags": [
+        "timeline",
+        "knowledge-tracking",
+        "知识追踪",
+        "deep-learning",
+        "transformer"
+      ]
+    },
+    {
+      "slug": "自适应学习系统演进",
+      "title": "自适应学习系统演进",
+      "tags": [
+        "timeline",
+        "adaptive-learning",
+        "自适应学习",
+        "intelligent-tutoring",
+        "个性化"
+      ]
+    }
+  ]
+}

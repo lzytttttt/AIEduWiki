@@ -78,8 +78,52 @@ nav:
       - entities/CausaDisco.md
       - entities/Edu-MMBias.md
       - entities/PAL.md
+      - entities/Khan-Academy.md
+      - entities/Duolingo.md
+      - entities/Squirrel-AI.md
+      - entities/好未来.md
+      - entities/Coursera.md
+      - entities/Khanmigo.md
+      - entities/Duolingo-Max.md
+      - entities/Squirrel-AI-产品.md
+      - entities/OpenAI-Gym-Education.md
+      - entities/Edmentum.md
+      - entities/UNESCO-AI教育.md
+      - entities/中国教育部-AI政策.md
+      - entities/AIED会议.md
+      - entities/CHI会议.md
+      - entities/LAK会议.md
+      - entities/Chris-Piech.md
+      - entities/Kenneth-Koedinger.md
+      - entities/Neil-Heffernan.md
+      - entities/Emma-Brunskill.md
+      - entities/Xiangen-Hu.md
+      - entities/Stanford-HAI.md
+      - entities/CMU-Learning-Science.md
+      - entities/ASSISTments团队.md
+  - 时间线:
+      - timelines/2020.md
+      - timelines/2021.md
+      - timelines/2022.md
+      - timelines/2023.md
+      - timelines/2024.md
+      - timelines/2025.md
+      - timelines/2026.md
+      - timelines/知识追踪发展史.md
+      - timelines/自适应学习系统演进.md
+  - 教程:
+      - tutorials/知识追踪入门.md
+      - tutorials/NLP-in-Education入门.md
+  - 图谱: graph.md
   - 对比:
       - comparisons/AI教育研究方法对比.md
+      - comparisons/AI教育产品对比.md
+      - comparisons/知识追踪方法对比.md
+      - comparisons/自适应学习框架对比.md
+  - 争议:
+      - controversies/AI替代教师争议.md
+      - controversies/AI作弊争议.md
+      - controversies/AI教育公平性争议.md
   - 规范: SCHEMA.md
 
 plugins:

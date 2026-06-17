@@ -1,0 +1,932 @@
+[
+  {
+    "title": "2020年 AI 教育发展总览",
+    "domain": "insights",
+    "slug": "2020",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      2020,
+      "adaptive-learning",
+      "knowledge-tracking",
+      "llm-education"
+    ],
+    "excerpt": "2020年：AI 教育的转折之年\r \r > 2020 年是 AI 教育领域的关键转折点。COVID-19 疫情迫使全球教育系统大规模转向在线教学，AI 教育工具从\"锦上添花\"变为\"刚需\"。\r \r 年度概览\r \r 2020 年，全球教育系统经历了前所未有的数字化转型。疫情推动了在线教育的爆发式增长，AI 教育工具从实验室走向课堂。这一年，自适应学习系统开始大规模部署，知识追踪技术取得重要突破，LLM...",
+    "path": "/insights/2020"
+  },
+  {
+    "title": "2021年 AI 教育发展总览",
+    "domain": "insights",
+    "slug": "2021",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      2021,
+      "adaptive-learning",
+      "knowledge-tracking",
+      "nlp",
+      "multimodal"
+    ],
+    "excerpt": "2021年：LLM 进入教育视野\r \r > 2021 年，大语言模型（LLM）的能力开始被教育领域认真对待。GPT-3 的 API 开放后，教育科技公司开始探索 LLM 在教学中的应用。\r \r 年度概览\r \r 2021 年，LLM 从学术研究走向产品应用。教育科技公司开始测试 LLM 在作文批改、智能问答、个性化辅导等场景的效果。同时，知识追踪和自适应学习系统继续发展，多模态学习分析开始受到关注。...",
+    "path": "/insights/2021"
+  },
+  {
+    "title": "2022年 AI 教育发展总览",
+    "domain": "insights",
+    "slug": "2022",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      2022,
+      "llm-education",
+      "chatgpt",
+      "教育变革"
+    ],
+    "excerpt": "2022年：ChatGPT 冲击波\r \r > 2022 年 11 月 30 日，ChatGPT 发布，彻底改变了 AI 教育的格局。教育界从\"是否使用 AI\"转向\"如何正确使用 AI\"。\r \r 年度概览\r \r 2022 年是 AI 教育的分水岭。ChatGPT 的发布引发了全球教育界的激烈讨论：AI 是教育的终结者还是赋能者？这一年，学术诚信问题成为焦点，教育机构开始重新思考评估方式，AI 教育伦...",
+    "path": "/insights/2022"
+  },
+  {
+    "title": "2023年 AI 教育发展总览",
+    "domain": "insights",
+    "slug": "2023",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      2023,
+      "llm-education",
+      "gpt-4",
+      "教育产品爆发"
+    ],
+    "excerpt": "2023年：教育 AI 产品爆发\r \r > 2023 年，GPT-4 发布，教育 AI 产品如雨后春笋般涌现。从 Khan Academy 的 Khanmigo 到 Duolingo Max，AI 教育产品进入主流市场。\r \r 年度概览\r \r 2023 年是教育 AI 产品的爆发年。GPT-4 的多模态能力和更强的推理能力，让 AI 教育产品从\"能用\"变为\"好用\"。Khan Academy、Duo...",
+    "path": "/insights/2023"
+  },
+  {
+    "title": "2024年 AI 教育发展总览",
+    "domain": "insights",
+    "slug": "2024",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      2024,
+      "multi-agent",
+      "个性化",
+      "知识图谱",
+      "深度融合"
+    ],
+    "excerpt": "2024年：多智能体与个性化深度融合\r \r > 2024 年，多智能体系统在教育中的应用成为热点。AI 教育从单一工具走向生态系统，个性化学习进入新阶段。\r \r 年度概览\r \r 2024 年，AI 教育进入\"深度融合\"阶段。多智能体系统开始在教育场景中发挥作用，知识图谱与 LLM 的结合提升了教学内容的组织和推荐能力。同时，AI 教育的伦理和公平性问题得到更多关注，研究者开始探索\"负责任的 AI ...",
+    "path": "/insights/2024"
+  },
+  {
+    "title": "2025年 AI 教育发展总览",
+    "domain": "insights",
+    "slug": "2025",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      2025,
+      "深度融合",
+      "伦理反思",
+      "可解释性"
+    ],
+    "excerpt": "2025年：深度融合与伦理反思\r \r > 2025 年，AI 教育进入\"深水区\"。技术深度融合的同时，伦理、公平、可解释性成为核心议题。\r \r 年度概览\r \r 2025 年，AI 教育从\"工具层\"进入\"系统层\"。AI 不再是独立的辅助工具，而是深度嵌入教学流程的核心组件。同时，AI 教育的可解释性、公平性、隐私保护成为研究热点，\"负责任的 AI 教育\"从理念走向实践。\r \r 关键事件\r \r | 时...",
+    "path": "/insights/2025"
+  },
+  {
+    "title": "2026年 AI 教育发展总览",
+    "domain": "insights",
+    "slug": "2026",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      2026,
+      "多智能体",
+      "可解释性",
+      "个性化",
+      "公平性"
+    ],
+    "excerpt": "2026年：AI 教育的前沿进展\r \r > 2026 年，AI 教育进入\"成熟期\"。多智能体系统、可解释 AI、个性化生成、公平性审计成为四大主线。\r \r 年度概览\r \r 2026 年（截至目前），AI 教育领域呈现四大趋势：多智能体协作教学、可解释教学决策、个性化内容生成、公平性审计。本 Wiki 收录的 25 篇论文集中反映了这些前沿进展。\r \r 关键事件\r \r | 时间 | 事件 | 影响 ...",
+    "path": "/insights/2026"
+  },
+  {
+    "title": "AI 作弊争议",
+    "domain": "insights",
+    "slug": "AI作弊争议",
+    "type": "controversy",
+    "tags": [
+      "controversy",
+      "ethics",
+      "学术诚信",
+      "ai-education",
+      "学生行为"
+    ],
+    "excerpt": "AI 作弊争议 > 学生使用 AI 工具（如 ChatGPT）完成作业和考试引发了关于\"AI 是否构成作弊\"的激烈讨论。本文梳理争议的各方观点和证据。 争议概述 随着 AI学术诚信与隐瞒行为 研究的深入，学生使用 AI 工具完成学术任务的现象越来越普遍。这引发了关于 AI 使用是否构成作弊的激烈讨论。争议的核心是：AI 工具是学习工具还是作弊工具？如何界定合理的 AI 使用？ 支持方观点（AI 是...",
+    "path": "/insights/AI作弊争议"
+  },
+  {
+    "title": "AI 教育产品对比",
+    "domain": "insights",
+    "slug": "AI教育产品对比",
+    "type": "comparison",
+    "tags": [
+      "comparison",
+      "product",
+      "ai-tutor",
+      "llm-education",
+      "adaptive-learning"
+    ],
+    "excerpt": "AI 教育产品对比 > 本文对比主流 AI 教育产品，包括 Khanmigo、Duolingo Max 和 Squirrel AI 产品，从技术、功能、市场等多个维度进行分析。 对比概览 | 维度 | Khanmigo | Duolingo Max | Squirrel AI 产品 | |------|----------|--------------|------------------| | ...",
+    "path": "/insights/AI教育产品对比"
+  },
+  {
+    "title": "AI 教育公平性争议",
+    "domain": "insights",
+    "slug": "AI教育公平性争议",
+    "type": "controversy",
+    "tags": [
+      "controversy",
+      "ethics",
+      "fairness",
+      "ai-education",
+      "社会公平"
+    ],
+    "excerpt": "AI 教育公平性争议 > AI 在教育中的应用引发了关于公平性的激烈讨论。本文梳理 AI 教育公平性问题的各方观点和证据。 争议概述 随着 教育公平与偏见 研究的深入，AI 在教育中的公平性问题越来越受到关注。争议的核心是：AI 教育工具是否会加剧现有的教育不平等？如何确保 AI 教育的公平性？ 技术偏见 算法偏见 - 数据偏见: AI 模型训练数据可能存在偏见，导致对某些群体不公平 - 算法设计...",
+    "path": "/insights/AI教育公平性争议"
+  },
+  {
+    "title": "AI教育研究方法对比",
+    "domain": "insights",
+    "slug": "AI教育研究方法对比",
+    "type": "comparison",
+    "tags": [
+      "comparison",
+      "research-method"
+    ],
+    "excerpt": "AI教育研究方法对比\r \r 学生AI披露/隐瞒行为研究方法\r \r | 论文 | 方法 | 样本量 | 核心发现 |\r |------|------|-------|---------|\r | （隐瞒研究） | SEM + fsQCA 混合方法 | 1346 学生 | 两条路径：促进隐瞒 vs 抑制隐瞒 |\r | （EAP 披露研究） | SEM + 定性访谈 | 324 EAP 学生 | 心理安全...",
+    "path": "/insights/AI教育研究方法对比"
+  },
+  {
+    "title": "AI 替代教师争议",
+    "domain": "insights",
+    "slug": "AI替代教师争议",
+    "type": "controversy",
+    "tags": [
+      "controversy",
+      "ethics",
+      "教师角色",
+      "ai-education",
+      "社会影响"
+    ],
+    "excerpt": "AI 替代教师争议 > AI 技术在教育中的应用引发了关于\"AI 是否应该替代教师\"的激烈讨论。本文梳理争议的各方观点和证据。 争议概述 随着 教学智能体 和 自适应学习系统 的发展，AI 在教育中的角色越来越重要。这引发了关于 AI 是否应该替代人类教师的激烈讨论。争议的核心是：AI 能否完全替代教师的职能？教师在教育中的不可替代价值是什么？ 支持方观点 效率优势 - 规模化: AI 可以同时服...",
+    "path": "/insights/AI替代教师争议"
+  },
+  {
+    "title": "知识追踪发展史",
+    "domain": "insights",
+    "slug": "知识追踪发展史",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      "knowledge-tracking",
+      "知识追踪",
+      "deep-learning",
+      "transformer"
+    ],
+    "excerpt": "知识追踪发展史\r \r > 从 BKT 到 Transformer，知识追踪技术经历了 20 年的演进。本文梳理其关键里程碑和发展脉络。\r \r 什么是知识追踪？\r \r 知识追踪（Knowledge Tracing, KT）是教育数据挖掘的核心任务之一，目标是从学习者的交互记录中建模其知识状态的动态演化。简单来说，就是\"知道学生现在会什么、不会什么\"。\r \r 详见  概念页。\r \r 发展阶段\r \r 第...",
+    "path": "/insights/知识追踪发展史"
+  },
+  {
+    "title": "知识追踪方法对比",
+    "domain": "insights",
+    "slug": "知识追踪方法对比",
+    "type": "comparison",
+    "tags": [
+      "comparison",
+      "knowledge-tracking",
+      "深度学习",
+      "统计模型",
+      "llm"
+    ],
+    "excerpt": "知识追踪方法对比 > 本文对比主流 知识追踪 方法，包括 BKT、DKT 和 RAG-KT，从技术路线、性能、可解释性等多个维度进行分析。 对比概览 | 维度 | BKT | DKT | RAG-KT | |------|-----|-----|--------| | 技术路线 | 统计模型 | 深度学习 | LLM 增强 | | 发布时间 | 2000 | 2015 | 2023 | | 核心算...",
+    "path": "/insights/知识追踪方法对比"
+  },
+  {
+    "title": "自适应学习框架对比",
+    "domain": "insights",
+    "slug": "自适应学习框架对比",
+    "type": "comparison",
+    "tags": [
+      "comparison",
+      "adaptive-learning",
+      "规则驱动",
+      "数据驱动",
+      "llm-education"
+    ],
+    "excerpt": "自适应学习框架对比 > 本文对比主流 自适应学习系统 框架，包括规则驱动、数据驱动和 LLM 驱动三种技术路线。 对比概览 | 维度 | 规则驱动 | 数据驱动 | LLM 驱动 | |------|----------|----------|----------| | 代表系统 | Cognitive Tutor | Knewton, Squirrel AI (松鼠AI) | Khanmigo ...",
+    "path": "/insights/自适应学习框架对比"
+  },
+  {
+    "title": "自适应学习系统演进",
+    "domain": "insights",
+    "slug": "自适应学习系统演进",
+    "type": "timeline",
+    "tags": [
+      "timeline",
+      "adaptive-learning",
+      "自适应学习",
+      "intelligent-tutoring",
+      "个性化"
+    ],
+    "excerpt": "自适应学习系统演进\r \r > 从 CAI 到 LLM Tutor，自适应学习系统经历了 50 年的演进。本文梳理其关键里程碑和未来方向。\r \r 什么是自适应学习系统？\r \r 自适应学习系统（Adaptive Learning System）是能够根据学习者的表现、偏好和需求，实时调整教学内容、节奏和方式的智能系统。核心目标是\"因材施教\"。\r \r 详见  概念页。\r \r 发展阶段\r \r 第一阶段：计...",
+    "path": "/insights/自适应学习系统演进"
+  },
+  {
+    "title": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+    "domain": "products",
+    "slug": "AIED会议",
+    "type": "entity",
+    "tags": [
+      "conference",
+      "research",
+      "ai-education",
+      "学术会议"
+    ],
+    "excerpt": "AIED 会议 (International Conference on Artificial Intelligence in Education)\r \r 概述\r \r AIED（International Conference on Artificial Intelligence in Education）是 AI 教育领域最重要的国际学术会议之一。会议汇集了来自计算机科学、教育学、心理学等领域的...",
+    "path": "/products/AIED会议"
+  },
+  {
+    "title": "ASSISTments 团队",
+    "domain": "products",
+    "slug": "ASSISTments团队",
+    "type": "entity",
+    "tags": [
+      "institution",
+      "research-team",
+      "wpi",
+      "assistments",
+      "educational-data-mining"
+    ],
+    "excerpt": "ASSISTments 团队\r \r 概述\r \r ASSISTments 团队是 Worcester Polytechnic Institute（WPI）的研究团队，由  教授领导。团队开发并维护 ASSISTments 在线学习平台，专注于教育数据挖掘和学习分析研究。\r \r 研究方向\r \r ASSISTments 平台\r \r - 在线学习: 基于 ASSISTments 的在线学习\r - 即时反馈...",
+    "path": "/products/ASSISTments团队"
+  },
+  {
+    "title": "CausaDisco",
+    "domain": "products",
+    "slug": "CausaDisco",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "university",
+      "self-learning"
+    ],
+    "excerpt": "CausaDisco\r \r 概述\r \r CausaDisco 是一个基于亚里士多德四因说框架引导 LLM 自我学习系统，由研究团队开发并通过 N=36 对照实验验证了有效性。\r \r 理论基础\r \r 亚里士多德四因说（Four Causes）为学习引导提供哲学框架：\r - 质料因（Material Cause）— 学习内容的原材料\r - 形式因（Formal Cause）— 内容的组织结构\r - 动...",
+    "path": "/products/CausaDisco"
+  },
+  {
+    "title": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+    "domain": "products",
+    "slug": "CHI会议",
+    "type": "entity",
+    "tags": [
+      "conference",
+      "research",
+      "hci",
+      "人机交互",
+      "学术会议"
+    ],
+    "excerpt": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)\r \r 概述\r \r CHI（ACM Conference on Human Factors in Computing Systems）是人机交互领域最顶级的国际学术会议。会议涵盖人机交互的各个方面，包括 AI 教育、学习技术、教育游戏等。\r \r 关键事实\r \r | 时间 | 事...",
+    "path": "/products/CHI会议"
+  },
+  {
+    "title": "Chris Piech",
+    "domain": "products",
+    "slug": "Chris-Piech",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "stanford",
+      "knowledge-tracking",
+      "deep-learning"
+    ],
+    "excerpt": "Chris Piech\r \r 简介\r \r Chris Piech 是 Stanford 大学计算机科学系副教授，专注于 AI 教育、知识追踪和机器学习研究。他是 Deep Knowledge Tracing（DKT）论文的主要作者之一，该工作开创了深度学习在知识追踪领域的应用。\r \r 研究方向\r \r 知识追踪\r \r - Deep Knowledge Tracing: 开创深度学习在知识追踪中的应用...",
+    "path": "/products/Chris-Piech"
+  },
+  {
+    "title": "CMU Learning Science Lab",
+    "domain": "products",
+    "slug": "CMU-Learning-Science",
+    "type": "entity",
+    "tags": [
+      "institution",
+      "research-lab",
+      "cmu",
+      "learning-science",
+      "cognitive-tutor"
+    ],
+    "excerpt": "CMU Learning Science Lab\r \r 概述\r \r CMU Learning Science Lab 是 Carnegie Mellon 大学人机交互研究所（HCII）下属的学习科学实验室。实验室专注于学习科学、智能辅导系统和教育数据挖掘研究，是认知导师（Cognitive Tutor）的发源地。\r \r 研究方向\r \r 学习科学\r \r - 学习原理: 基于证据的学习原理\r - 教学...",
+    "path": "/products/CMU-Learning-Science"
+  },
+  {
+    "title": "Coursera",
+    "domain": "products",
+    "slug": "Coursera",
+    "type": "entity",
+    "tags": [
+      "edtech",
+      "company",
+      "moocs",
+      "higher-ed",
+      "在线教育"
+    ],
+    "excerpt": "Coursera\r \r 概述\r \r Coursera 是一家美国在线教育平台公司，由 Andrew Ng 和 Daphne Koller 于 2012 年创立。平台与全球顶尖大学和机构合作，提供超过 7,000 门课程，覆盖数据科学、计算机科学、商业等多个领域。\r \r 关键事实与时间线\r \r | 时间 | 事件 |\r |------|------|\r | 2012 | Andrew Ng 和 Da...",
+    "path": "/products/Coursera"
+  },
+  {
+    "title": "Duolingo Max",
+    "domain": "products",
+    "slug": "Duolingo-Max",
+    "type": "entity",
+    "tags": [
+      "product",
+      "ai-tutor",
+      "language-learning",
+      "llm-education"
+    ],
+    "excerpt": "Duolingo Max\r \r 概述\r \r Duolingo Max 是  于 2023 年推出的 AI 驱动高级订阅版本。基于 GPT-4 技术，提供角色扮演和解释功能，为语言学习者提供更沉浸式的 AI 互动体验。\r \r 核心功能\r \r 角色扮演 (Roleplay)\r \r - AI 对话伙伴: 与 AI 角色进行实时对话练习\r - 场景模拟: 模拟真实场景（如餐厅点餐、机场问路）\r - 实时反...",
+    "path": "/products/Duolingo-Max"
+  },
+  {
+    "title": "Duolingo",
+    "domain": "products",
+    "slug": "Duolingo",
+    "type": "entity",
+    "tags": [
+      "edtech",
+      "company",
+      "language-learning",
+      "adaptive-learning",
+      "移动学习"
+    ],
+    "excerpt": "Duolingo\r \r 概述\r \r Duolingo 是一家美国语言学习平台公司，由 Luis von Ahn 和 Severin Hacker 于 2011 年创立。平台通过游戏化的方式提供超过 40 种语言的免费课程，是全球最受欢迎的语言学习应用之一。\r \r 关键事实与时间线\r \r | 时间 | 事件 |\r |------|------|\r | 2009 | Luis von Ahn 和 Se...",
+    "path": "/products/Duolingo"
+  },
+  {
+    "title": "Edmentum",
+    "domain": "products",
+    "slug": "Edmentum",
+    "type": "entity",
+    "tags": [
+      "edtech",
+      "company",
+      "adaptive-learning",
+      "k12",
+      "在线学习"
+    ],
+    "excerpt": "Edmentum\r \r 概述\r \r Edmentum 是一家美国教育科技公司，提供基于 AI 的在线学习平台。公司专注于 K-12 教育，提供自适应学习、课程内容、评估工具等产品。\r \r 核心功能\r \r 自适应学习\r \r - 精准诊断: 诊断学生知识状态\r - 个性化推荐: 推荐个性化学习路径\r - 进度追踪: 追踪学生学习进度\r \r 课程内容\r \r - K-12 课程: 覆盖 K-12 全学科\r...",
+    "path": "/products/Edmentum"
+  },
+  {
+    "title": "Edu-MMBias",
+    "domain": "products",
+    "slug": "Edu-MMBias",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "benchmark",
+      "fairness"
+    ],
+    "excerpt": "Edu-MMBias\r \r 概述\r \r Edu-MMBias 是首个 VLM 教育场景多模态偏见审计框架，由研究团队提出，用于诊断视觉语言模型（VLM）在教育应用中的认知、情感和行为偏见。\r \r 三层诊断模型\r \r | 层次 | 内容 | 例子 |\r |------|------|------|\r | 认知偏见 | 知识理解偏差 | 模型对不同学生群体的解题思路理解差异 |\r | 情感偏见 | 情...",
+    "path": "/products/Edu-MMBias"
+  },
+  {
+    "title": "Emma Brunskill",
+    "domain": "products",
+    "slug": "Emma-Brunskill",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "stanford",
+      "reinforcement-learning",
+      "adaptive-learning"
+    ],
+    "excerpt": "Emma Brunskill\r \r 简介\r \r Emma Brunskill 是 Stanford 大学计算机科学系副教授，专注于强化学习在教育中的应用。她的研究聚焦于使用强化学习技术优化个性化学习策略。\r \r 研究方向\r \r 强化学习教育\r \r - 自适应学习: 强化学习驱动的自适应学习\r - 策略优化: 学习策略优化\r - 探索-利用: 学习中的探索-利用权衡\r \r 教育数据挖掘\r \r - 学...",
+    "path": "/products/Emma-Brunskill"
+  },
+  {
+    "title": "Kenneth Koedinger",
+    "domain": "products",
+    "slug": "Kenneth-Koedinger",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "cmu",
+      "cognitive-tutor",
+      "learning-science"
+    ],
+    "excerpt": "Kenneth Koedinger\r \r 简介\r \r Kenneth Koedinger 是 Carnegie Mellon 大学人机交互研究所教授，是认知导师（Cognitive Tutor）的创始人之一。他的研究聚焦于学习科学、智能辅导系统和教育数据挖掘。\r \r 研究方向\r \r 认知导师\r \r - 认知模型: 基于认知理论的智能辅导\r - 知识组件: 知识组件分析方法\r - 学习曲线: 学习曲...",
+    "path": "/products/Kenneth-Koedinger"
+  },
+  {
+    "title": "Khan Academy",
+    "domain": "products",
+    "slug": "Khan-Academy",
+    "type": "entity",
+    "tags": [
+      "edtech",
+      "company",
+      "adaptive-learning",
+      "k12",
+      "非营利"
+    ],
+    "excerpt": "Khan Academy\r \r 概述\r \r Khan Academy 是一家美国非营利教育组织，由 Salman Khan 于 2008 年创立。其使命是为任何地方的任何人提供免费的世界级教育。平台提供超过 10,000 个视频课程和超过 100,000 道练习题，覆盖数学、科学、计算机科学、人文等多个学科。\r \r 关键事实与时间线\r \r | 时间 | 事件 |\r |------|------|\r...",
+    "path": "/products/Khan-Academy"
+  },
+  {
+    "title": "Khanmigo",
+    "domain": "products",
+    "slug": "Khanmigo",
+    "type": "entity",
+    "tags": [
+      "product",
+      "ai-tutor",
+      "llm-education",
+      "adaptive-learning"
+    ],
+    "excerpt": "Khanmigo\r \r 概述\r \r Khanmigo 是  于 2023 年推出的 AI 辅导系统，基于 GPT-4 技术。它是一个 ，采用苏格拉底式教学方法，不直接给答案，而是通过提问引导学生思考。\r \r 核心功能\r \r 苏格拉底式教学\r \r - 引导式提问: 不直接给答案，而是通过提问引导学生思考\r - 逐步提示: 提供逐步提示帮助学生解决问题\r - 鼓励探索: 鼓励学生自己发现答案\r \r 多...",
+    "path": "/products/Khanmigo"
+  },
+  {
+    "title": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+    "domain": "products",
+    "slug": "LAK会议",
+    "type": "entity",
+    "tags": [
+      "conference",
+      "research",
+      "learning-analytics",
+      "学习分析",
+      "学术会议"
+    ],
+    "excerpt": "LAK 会议 (International Learning Analytics & Knowledge Conference)\r \r 概述\r \r LAK（International Learning Analytics & Knowledge Conference）是学习分析领域最重要的国际学术会议。会议聚焦于学习数据分析、学习分析技术、教育数据挖掘等研究方向。\r \r 关键事实\r \r | 时间 ...",
+    "path": "/products/LAK会议"
+  },
+  {
+    "title": "Neil Heffernan",
+    "domain": "products",
+    "slug": "Neil-Heffernan",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "wpi",
+      "assistments",
+      "educational-data-mining"
+    ],
+    "excerpt": "Neil Heffernan\r \r 简介\r \r Neil Heffernan 是 Worcester Polytechnic Institute（WPI）计算机科学系教授，是 ASSISTments 在线学习平台的创始人。他的研究聚焦于教育数据挖掘、智能辅导系统和学习分析。\r \r 研究方向\r \r ASSISTments\r \r - 在线学习: 基于 ASSISTments 的在线学习\r - 即时反馈...",
+    "path": "/products/Neil-Heffernan"
+  },
+  {
+    "title": "OpenAI Gym for Education",
+    "domain": "products",
+    "slug": "OpenAI-Gym-Education",
+    "type": "entity",
+    "tags": [
+      "open-source",
+      "framework",
+      "reinforcement-learning",
+      "仿真"
+    ],
+    "excerpt": "OpenAI Gym for Education\r \r 概述\r \r OpenAI Gym for Education 是基于 OpenAI Gym（现为 Gymnasium）的教育应用框架，用于开发和测试强化学习在教育场景中的应用。框架提供标准化的教育环境接口，支持自适应学习、智能辅导等场景的研究和开发。\r \r 核心功能\r \r 标准化接口\r \r - 环境接口: 标准化的教育环境接口\r - 动作空间...",
+    "path": "/products/OpenAI-Gym-Education"
+  },
+  {
+    "title": "PAL (Personalized Adaptive Learner)",
+    "domain": "products",
+    "slug": "PAL",
+    "type": "entity",
+    "tags": [
+      "model",
+      "adaptive-learning",
+      "moocs"
+    ],
+    "excerpt": "PAL (Personalized Adaptive Learner)\r \r 概述\r \r PAL 是一个基于视频课程的实时自适应学习系统，由研究团队开发。该系统通过多模态分析技术，实时追踪学习者的理解程度，动态调整视频内容和练习难度。\r \r 核心能力\r \r - 多模态分析：综合视频内容、字幕、答题行为等多维数据\r - 实时难度调整：根据学习者表现即时调整下一道题的难度\r - 个性化总结：课程结束时...",
+    "path": "/products/PAL"
+  },
+  {
+    "title": "Squirrel AI 产品 (松鼠AI产品)",
+    "domain": "products",
+    "slug": "Squirrel-AI-产品",
+    "type": "entity",
+    "tags": [
+      "product",
+      "ai-tutor",
+      "adaptive-learning",
+      "中国",
+      "k12"
+    ],
+    "excerpt": "Squirrel AI 产品 (松鼠AI产品)\r \r 概述\r \r Squirrel AI 产品是  开发的 AI 教育产品系列，包括自适应学习系统和 AI 教师系统。产品专注于 K-12 教育，通过 AI 技术实现个性化学习。\r \r 核心功能\r \r 自适应学习系统\r \r - 精准诊断: 通过少量题目精准诊断学生知识状态\r - 个性化推荐: 根据诊断结果推荐学习路径\r - 知识图谱: 覆盖 K-12...",
+    "path": "/products/Squirrel-AI-产品"
+  },
+  {
+    "title": "Squirrel AI (松鼠AI)",
+    "domain": "products",
+    "slug": "Squirrel-AI",
+    "type": "entity",
+    "tags": [
+      "edtech",
+      "company",
+      "adaptive-learning",
+      "中国",
+      "k12"
+    ],
+    "excerpt": "Squirrel AI (松鼠AI)\r \r 概述\r \r Squirrel AI（松鼠AI）是一家中国教育科技公司，由 Derek Li 于 2014 年创立。公司专注于开发基于人工智能的自适应学习系统，是中国领先的 AI 教育平台之一。其核心产品是基于知识图谱和自适应算法的智能学习系统。\r \r 关键事实与时间线\r \r | 时间 | 事件 |\r |------|------|\r | 2014 | D...",
+    "path": "/products/Squirrel-AI"
+  },
+  {
+    "title": "Stanford HAI (Human-Centered Artificial Intelligence)",
+    "domain": "products",
+    "slug": "Stanford-HAI",
+    "type": "entity",
+    "tags": [
+      "institution",
+      "research-lab",
+      "stanford",
+      "ai-education",
+      "人机交互"
+    ],
+    "excerpt": "Stanford HAI (Human-Centered Artificial Intelligence)\r \r 概述\r \r Stanford HAI（Human-Centered Artificial Intelligence）是 Stanford 大学的人工智能研究院，成立于 2019 年。研究院致力于推动以人为中心的 AI 研究，包括 AI 教育、AI 伦理、AI 政策等方向。\r \r 研究方...",
+    "path": "/products/Stanford-HAI"
+  },
+  {
+    "title": "UNESCO AI 教育倡议",
+    "domain": "products",
+    "slug": "UNESCO-AI教育",
+    "type": "entity",
+    "tags": [
+      "institution",
+      "government",
+      "policy",
+      "ethics",
+      "全球"
+    ],
+    "excerpt": "UNESCO AI 教育倡议\r \r 概述\r \r UNESCO（联合国教育、科学及文化组织）在 AI 教育领域发挥着重要的政策引导和标准制定作用。UNESCO 发布了多项关于 AI 教育的指南和倡议，推动全球教育公平和 AI 伦理。\r \r 关键倡议\r \r AI 教育指南\r \r - AI 与教育: 指导 AI 在教育中的应用\r - 教师 AI 能力: 教师 AI 素养框架\r - 学生 AI 素养: 学...",
+    "path": "/products/UNESCO-AI教育"
+  },
+  {
+    "title": "Xiangen Hu",
+    "domain": "products",
+    "slug": "Xiangen-Hu",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "memphis",
+      "knowledge-tracking",
+      "中国"
+    ],
+    "excerpt": "Xiangen Hu\r \r 简介\r \r Xiangen Hu 是 University of Memphis 心理学系教授，专注于知识追踪、学习分析和教育数据挖掘研究。他在知识追踪领域有重要贡献，特别是在贝叶斯知识追踪和深度学习知识追踪方面。\r \r 研究方向\r \r 知识追踪\r \r - 贝叶斯知识追踪: BKT 模型研究\r - 深度学习知识追踪: DKT 模型研究\r - 可解释性: 知识追踪模型的可...",
+    "path": "/products/Xiangen-Hu"
+  },
+  {
+    "title": "Yiran-Du研究团队",
+    "domain": "products",
+    "slug": "Yiran-Du研究团队",
+    "type": "entity",
+    "tags": [
+      "researcher",
+      "university"
+    ],
+    "excerpt": "Yiran-Du研究团队\r \r 概述\r \r AI+教育行为研究团队，聚焦学生 AI 披露/隐瞒的心理机制，隶属于某高等教育研究机构。已发表 3 篇相关论文，是该领域的活跃研究团队。\r \r 研究方向\r \r 核心主题：学生AI披露/隐瞒心理机制\r \r 该团队从双路径模型角度研究学生 AI 使用行为：\r - 促进隐瞒路径：感知污名 → 恐惧负面评价 → 隐瞒意愿↑\r - 抑制隐瞒路径：心理安全感 → 披...",
+    "path": "/products/Yiran-Du研究团队"
+  },
+  {
+    "title": "中国教育部 AI 政策",
+    "domain": "products",
+    "slug": "中国教育部-AI政策",
+    "type": "entity",
+    "tags": [
+      "institution",
+      "government",
+      "policy",
+      "中国",
+      "教育政策"
+    ],
+    "excerpt": "中国教育部 AI 政策\r \r 概述\r \r 中国教育部在 AI 教育领域发布了多项政策和指导文件，推动 AI 在教育中的应用，同时规范 AI 教育的发展。政策覆盖 AI 教育应用、教师培训、学生素养等多个方面。\r \r 关键政策\r \r AI 教育应用\r \r - AI + 教育: 推动 AI 在教育中的应用\r - 智能教育: 发展智能教育平台\r - 教育数字化: 推动教育数字化转型\r \r 教师培训\r \r...",
+    "path": "/products/中国教育部-AI政策"
+  },
+  {
+    "title": "好未来 (TAL Education)",
+    "domain": "products",
+    "slug": "好未来",
+    "type": "entity",
+    "tags": [
+      "edtech",
+      "company",
+      "中国",
+      "k12",
+      "上市公司"
+    ],
+    "excerpt": "好未来 (TAL Education)\r \r 概述\r \r 好未来（TAL Education Group）是中国领先的教育科技公司，由张邦鑫于 2003 年创立。公司业务覆盖 K-12 教育、在线教育、教育科技等多个领域。2010 年在纽约证券交易所上市（NYSE: TAL）。\r \r 关键事实与时间线\r \r | 时间 | 事件 |\r |------|------|\r | 2003 | 张邦鑫创立学...",
+    "path": "/products/好未来"
+  },
+  {
+    "title": "AI写作辅助与拥有感",
+    "domain": "technology",
+    "slug": "AI写作辅助与拥有感",
+    "type": "concept",
+    "tags": [
+      "writing-assessment",
+      "llm-education",
+      "model"
+    ],
+    "excerpt": "AI写作辅助与拥有感\r \r 定义\r \r AI 介入写作的阶段（规划/草稿/修改）对学习者拥有感（sense of ownership）的影响，是教育 AI 伦理研究的重要议题。\r \r 核心发现\r \r AI 介入写作的不同阶段，对学习者拥有感的伤害程度不同：\r \r | 介入阶段 | 对拥有感的伤害 | 说明 |\r |---------|-------------|------|\r | 规划阶段 | ...",
+    "path": "/technology/AI写作辅助与拥有感"
+  },
+  {
+    "title": "NLP in Education 入门指南",
+    "domain": "technology",
+    "slug": "NLP-in-Education入门",
+    "type": "tutorial",
+    "tags": [
+      "tutorial",
+      "nlp",
+      "自然语言处理",
+      "llm-education",
+      "入门",
+      "教程"
+    ],
+    "excerpt": "NLP in Education 入门指南\r \r > 本文用通俗易懂的方式介绍自然语言处理（NLP）在教育中的应用。从作文批改到智能问答，NLP 正在改变教育的面貌。\r \r 什么是 NLP in Education？\r \r 想象一下，你写了一篇英语作文，几分钟后就收到了详细的批改反馈——不仅指出了语法错误，还评价了文章结构、论证逻辑、用词准确性，甚至给出了改进建议。\r \r 这就是 NLP in E...",
+    "path": "/technology/NLP-in-Education入门"
+  },
+  {
+    "title": "教学智能体",
+    "domain": "technology",
+    "slug": "教学智能体",
+    "type": "concept",
+    "tags": [
+      "智能辅导",
+      "LLM教育",
+      "智能体",
+      "模型"
+    ],
+    "excerpt": "教学智能体\r \r 定义\r \r 教学智能体（Pedagogical Agent）是承担教师、导师或学习伙伴角色的 AI 系统——通过与学生对话，交付、调整或支持教学内容。\r \r LLM 时代的教学智能体（2022–2025）\r \r 自 GPT-3.5/4 出现（2022年底）以来，LLM 为教学智能体带来了前所未有的能力：\r - 跨学科自然语言理解\r - 复杂推理能力\r - 自适应对话\r \r 设计维...",
+    "path": "/technology/教学智能体"
+  },
+  {
+    "title": "知识追踪入门指南",
+    "domain": "technology",
+    "slug": "知识追踪入门",
+    "type": "tutorial",
+    "tags": [
+      "tutorial",
+      "knowledge-tracking",
+      "知识追踪",
+      "入门",
+      "教程"
+    ],
+    "excerpt": "知识追踪入门指南\r \r > 本文用通俗易懂的方式介绍知识追踪（Knowledge Tracing）的核心概念、主流方法和实际应用。适合对 AI 教育感兴趣的初学者。\r \r 什么是知识追踪？\r \r 想象一下，你是一位老师，班上有 30 个学生。每个学生对每个知识点的掌握程度都不同，而且随着时间推移，他们会学习新知识、遗忘旧知识。你需要一个\"魔法眼镜\"，能够实时看到每个学生对每个知识点的掌握情况。\r ...",
+    "path": "/technology/知识追踪入门"
+  },
+  {
+    "title": "自动选择题生成",
+    "domain": "technology",
+    "slug": "自动选择题生成",
+    "type": "concept",
+    "tags": [
+      "自动批改",
+      "自然语言处理",
+      "知识图谱",
+      "LLM教育"
+    ],
+    "excerpt": "自动选择题生成\r \r 定义\r \r 自动选择题生成（Automated MCQ Generation）利用 AI 从教材、课件、论文等原材料中自动创建测验题目，并同步输出难度估计——是自适应学习平台的核心技术模块。\r \r 核心挑战\r \r 1. 质量 — 题目必须事实正确、表述清晰、无歧义\r 2. 干扰项 — 错误选项须有迷惑性但明显错误\r 3. 难度估计 — 评估某道题对特定学习者的难度\r 4. 幻...",
+    "path": "/technology/自动选择题生成"
+  },
+  {
+    "title": "AI学术诚信与隐瞒行为",
+    "domain": "theory",
+    "slug": "AI学术诚信与隐瞒行为",
+    "type": "concept",
+    "tags": [
+      "学术诚信",
+      "伦理",
+      "政策",
+      "隐私",
+      "高等教育"
+    ],
+    "excerpt": "AI学术诚信与隐瞒行为\r \r 定义\r \r 在高等教育中，学生使用 AI 工具辅助学习/写作时的披露意愿与隐瞒行为，是影响学术公平和教育质量的关键问题。\r \r 两条机制路径\r \r | 路径 | 触发因素 | 心理机制 | 对隐瞒意愿的影响 |\r |------|---------|---------|--------------|\r | 促进隐瞒 | 感知污名、感知风险、政策不确定性 | → 恐惧负...",
+    "path": "/theory/AI学术诚信与隐瞒行为"
+  },
+  {
+    "title": "AI辅助代码审查与自我调节学习",
+    "domain": "theory",
+    "slug": "AI辅助代码审查与自我调节学习",
+    "type": "",
+    "tags": [],
+    "excerpt": "AI辅助代码审查与自我调节学习\r \r > LLM作为代码审查者嵌入GitHub PR工作流，培养学生代码质量意识和自我调节学习能力\r \r 核心定义\r \r 将LLM作为代码审查者直接集成到软件开发工作流（GitHub Pull Requests），通过人类在环（Human-in-the-Loop）设计，在不导致认知卸载的前提下为学生提供 scaffolded 学习支持。\r \r 研究背景\r \r 代码审...",
+    "path": "/theory/AI辅助代码审查与自我调节学习"
+  },
+  {
+    "title": "STEM论证分组系统",
+    "domain": "theory",
+    "slug": "STEM论证分组系统",
+    "type": "",
+    "tags": [],
+    "excerpt": "STEM论证分组系统\r \r > AI实时分析学生论证立场和质量，动态分组以促进productive classroom argumentation\r \r 核心问题\r \r STEM课堂中论证（Argumentation）是核心实践，但面临：\r - 高成就学生主导话语权\r - 低成就学生不参与或顺从\r - 教师难以实时评估学生立场和质量\r \r 系统设计：ArguAgent\r \r 两组件评估Pipeli...",
+    "path": "/theory/STEM论证分组系统"
+  },
+  {
+    "title": "个性化工作例生成",
+    "domain": "theory",
+    "slug": "个性化工作例生成",
+    "type": "",
+    "tags": [],
+    "excerpt": "个性化工作例生成\r \r > 根据学生具体代码错误模式，AI自动生成针对性的工作例（worked examples）\r \r 核心定义\r \r 工作例是展示解题步骤的详细示例，是编程教育中重要的教学策略。传统工作例库依赖人工创作，难以覆盖学生多样的错误模式。个性化工作例生成通过分析学生代码中的错误模式，自动生成针对性工作例。\r \r 技术路线\r \r KC-Guided方法\r \r 知识组件（Knowledg...",
+    "path": "/theory/个性化工作例生成"
+  },
+  {
+    "title": "个性化问题生成",
+    "domain": "theory",
+    "slug": "个性化问题生成",
+    "type": "concept",
+    "tags": [
+      "personalization",
+      "multi-agent",
+      "mathematics",
+      "adaptive-learning",
+      "automated-grading"
+    ],
+    "excerpt": "个性化问题生成\r \r 定义\r \r 个性化问题生成（Personalized Problem Generation）指根据学习者特征（知识水平、兴趣、文化背景等）自动生成定制化习题的系统性方法。与通用题库不同，个性化问题生成要求 AI 理解学习者的具体情境并生成最适合其当前状态的题目。\r \r 多智能体方案\r \r 最前沿的实现采用多智能体教师在环架构：\r \r | 智能体 | 职责 |\r |------...",
+    "path": "/theory/个性化问题生成"
+  },
+  {
+    "title": "协作学习仿真",
+    "domain": "theory",
+    "slug": "协作学习仿真",
+    "type": "concept",
+    "tags": [
+      "collaborative-learning",
+      "multi-agent",
+      "learning-simulation",
+      "llm-education"
+    ],
+    "excerpt": "协作学习仿真\r \r 定义\r \r LLM 多智能体系统模拟协作学习过程，用于研究学习脚手架（scaffolding）策略的效果，是教育 AI 研究的新兴方法论。\r \r 仿真测试框架的新进展（arXiv:2604.11161）\r \r \"Simulation-Based Method for Testing Collaborative Learning Scaffolding Using LLM Mul...",
+    "path": "/theory/协作学习仿真"
+  },
+  {
+    "title": "可解释学生行为诊断对话系统",
+    "domain": "theory",
+    "slug": "可解释学生行为诊断对话系统",
+    "type": "",
+    "tags": [],
+    "excerpt": "可解释学生行为诊断对话系统\r \r > AI通过多轮对话辅助教师诊断学生问题行为，并提供可解释的干预建议\r \r 核心定义\r \r 学生问题行为诊断是教师工作的核心挑战：需要综合多维信息、识别行为类别、规划干预策略。传统AI辅助系统多为黑盒，缺乏解释为什么推荐某策略的能力，限制了教师的信任和使用。\r \r 技术方案\r \r 可解释对话系统架构\r \r 1. Fine-tuned LLM base：针对学生行为...",
+    "path": "/theory/可解释学生行为诊断对话系统"
+  },
+  {
+    "title": "可解释教学编排",
+    "domain": "theory",
+    "slug": "可解释教学编排",
+    "type": "concept",
+    "tags": [
+      "pedagogical-agents",
+      "interpretability",
+      "multi-agent",
+      "adaptive-learning",
+      "llm-education"
+    ],
+    "excerpt": "可解释教学编排\r \r 定义\r \r 可解释教学编排（Interpretable Pedagogical Orchestration）指在多智能体教育系统中，将原本作为黑盒的单一大型语言模型替换为多个专业化特化模型组合，每个组件负责特定教学功能，通过显式协同实现自适应教学。其核心目标是在保持个性化教学能力的同时，让教学决策过程完全可审计、可解释。\r \r 问题背景：黑盒 LLM 的局限\r \r 当前教育对...",
+    "path": "/theory/可解释教学编排"
+  },
+  {
+    "title": "学习脚手架",
+    "domain": "theory",
+    "slug": "学习脚手架",
+    "type": "concept",
+    "tags": [
+      "scaffolding",
+      "collaborative-learning",
+      "learning-simulation",
+      "pedagogical-agents"
+    ],
+    "excerpt": "学习脚手架\r \r 定义\r \r 脚手架（Scaffolding）原为教育心理学概念，指教师或系统为学习者提供临时性支持结构，帮助其完成超越独立能力范围的任务。在 AI 教育中，脚手架特指引导 AI 系统通过特定交互策略，将学习者从被动接受推向主动建构的学习方法。\r \r ICAP 参与框架\r \r 脚手架策略的效果可以用 ICAP 框架衡量：\r \r | 模式 | 描述 | 脚手架效果 |\r |-----...",
+    "path": "/theory/学习脚手架"
+  },
+  {
+    "title": "学生主导AI政策",
+    "domain": "theory",
+    "slug": "学生主导AI政策",
+    "type": "concept",
+    "tags": [
+      "policy",
+      "higher-ed",
+      "ethics"
+    ],
+    "excerpt": "学生主导AI政策\r \r 定义\r \r 学生主导 AI 政策（Student-Driven AI Policy）是指将学生纳入 AI 使用治理的参与式政策设计路径——与传统\"顶层设计\"不同，学生参与规则的制定和讨论。\r \r 背景问题\r \r 传统大学 AI 政策通常是：\r - 由管理层/教师制定\r - 聚焦于惩罚滥用\r - 学生被排除在决策之外\r \r 这种\"自上而下\"的方式导致学生对规则缺乏认同感，且无...",
+    "path": "/theory/学生主导AI政策"
+  },
+  {
+    "title": "教学化身与教师存在感",
+    "domain": "theory",
+    "slug": "教学化身与教师存在感",
+    "type": "",
+    "tags": [],
+    "excerpt": "教学化身与教师存在感\r \r > 生成式AI创建虚拟教师形象，在异步/在线教学环境中恢复教师存在感\r \r 核心定义\r \r 教学化身（Talking Slide Avatars / Instructor Avatars）是利用生成式AI在幻灯片教学中重建教师存在感的策略。通过将脚本和静态肖像转化为AI驱动的说话视频，弥补异步/混合学习环境中缺失的教师身体在场。\r \r 技术栈\r \r - OpenVoic...",
+    "path": "/theory/教学化身与教师存在感"
+  },
+  {
+    "title": "教育公平与偏见",
+    "domain": "theory",
+    "slug": "教育公平与偏见",
+    "type": "concept",
+    "tags": [
+      "公平性",
+      "偏见",
+      "伦理",
+      "政策",
+      "模型评估"
+    ],
+    "excerpt": "教育公平与偏见\r \r 定义\r \r AI 在教育场景中做决策（如评分、推荐、资源分配）时，视觉-语言模型（VLM）可能通过图像输入引入或放大社会偏见，绕过文本对其 alignment 保护的检查。\r \r Edu-MMBias 审计框架\r \r 基于社会心理学\"态度三成分模型\"，从三个层次诊断偏见：\r \r | 层次 | 内容 | 教育场景示例 |\r |------|------|------------...",
+    "path": "/theory/教育公平与偏见"
+  },
+  {
+    "title": "教育合成数据基准",
+    "domain": "theory",
+    "slug": "教育合成数据基准",
+    "type": "",
+    "tags": [],
+    "excerpt": "教育合成数据基准\r \r > 系统比较传统重采样与深度生成模型在教育数据上的效用-隐私权衡\r \r 核心问题\r \r 教育科技中：\r - 数据稀缺：难以获取大量真实学生数据\r - 隐私保护：学生数据受GDPR等法规严格保护\r \r 合成数据生成是解决方案，但 practitioners缺乏选择指导。\r \r 评估框架\r \r 三个维度：\r 1. 分布保真度（Distributional Fidelity）\r ...",
+    "path": "/theory/教育合成数据基准"
+  },
+  {
+    "title": "教育游戏自动生成",
+    "domain": "theory",
+    "slug": "教育游戏自动生成",
+    "type": "",
+    "tags": [],
+    "excerpt": "教育游戏自动生成\r \r > 将教师提问自动转化为可玩的、基于教学法的教育游戏\r \r 核心定义\r \r 教育游戏自动生成（Automated Educational Game Generation）指利用AI将学科题目自动转化为具有教学价值的游戏，是游戏化学习（Gamification）和智能教学系统的交叉领域。\r \r 代表系统：GameDAI\r \r GameDAI 是分层多智能体框架，核心指标：\r ...",
+    "path": "/theory/教育游戏自动生成"
+  },
+  {
+    "title": "知识追踪",
+    "domain": "theory",
+    "slug": "知识追踪",
+    "type": "concept",
+    "tags": [
+      "知识追踪",
+      "自适应学习",
+      "学习者建模",
+      "模型"
+    ],
+    "excerpt": "知识追踪\r \r 定义\r \r 知识追踪（Knowledge Tracing, KT）旨在根据学习者过往的学习交互记录（如答题情况、提示使用、学习时长），建模其知识状态的动态演化，从而预测在后续任务上的表现。\r \r 传统方法的问题\r \r | 方法 | 问题 |\r |------|------|\r | 深度学习（DL）方法 | 依赖特定平台标识符；隐表示不透明；无法跨平台迁移 |\r | LLM Prom...",
+    "path": "/theory/知识追踪"
+  },
+  {
+    "title": "社会机器人与CASA范式",
+    "domain": "theory",
+    "slug": "社会机器人与CASA范式",
+    "type": "concept",
+    "tags": [
+      "social-robot",
+      "language-learning",
+      "tam",
+      "k12",
+      "llm-education"
+    ],
+    "excerpt": "社会机器人与CASA范式\r \r 定义\r \r 社会机器人（Social Robot）是指具备社交属性、能够与人类学习者进行情感和社会性交互的教育机器人。与纯功能性教育技术不同，社会机器人利用拟人化特征和社会存在感来提升学习动机和参与度。\r \r CASA（Computers Are Social Actors）范式是社会计算研究的核心理论——当技术表现出社会性特征时，人类会自发地用社会规则与其互动。\r...",
+    "path": "/theory/社会机器人与CASA范式"
+  },
+  {
+    "title": "自适应学习系统",
+    "domain": "theory",
+    "slug": "自适应学习系统",
+    "type": "concept",
+    "tags": [
+      "自适应学习",
+      "个性化",
+      "智能辅导",
+      "模型"
+    ],
+    "excerpt": "自适应学习系统\r \r 定义\r \r 自适应学习系统利用 AI 根据每位学习者的表现、行为和实时理解程度，动态调整教学内容和学习节奏——突破传统\"一刀切\"的授课模式。\r \r 两大范式\r \r 静态适应（旧范式）\r - 预设难度的测验题\r - 所有学习者统一学习节奏\r - 通用反馈，无差异化\r - 对学习者认知变化响应极为有限\r \r 动态/实时适应（当前前沿）\r - 学习过程中持续分析学习者答题反应\r -...",
+    "path": "/theory/自适应学习系统"
+  },
+  {
+    "title": "英语口语分级生成系统",
+    "domain": "theory",
+    "slug": "英语口语分级生成系统",
+    "type": "",
+    "tags": [],
+    "excerpt": "英语口语分级生成系统\r \r > LLM根据学习者熟练度动态调整口语对话难度，实现K-12非母语英语学习者的个性化口语练习\r \r 核心问题\r \r K-12非母语英语学习者在非沉浸式环境面临熟练度不匹配困境：\r - 标准LLM对话太复杂，学习者无法跟上\r - 需要教师实时调整语言复杂度\r \r 技术方案\r \r Proficiency-Aligned Framework\r \r 以中国国家课程标准（CSE）...",
+    "path": "/theory/英语口语分级生成系统"
+  },
+  {
+    "title": "诊断推理与LLM智能体",
+    "domain": "theory",
+    "slug": "诊断推理与LLM智能体",
+    "type": "concept",
+    "tags": [
+      "diagnostic-reasoning",
+      "llm-agents",
+      "scaffolding",
+      "metacognition",
+      "learning-science"
+    ],
+    "excerpt": "诊断推理与LLM智能体\r \r 定义\r \r 诊断推理（Diagnostic Reasoning）是医学、教育等领域中通过系统分析症状/表现来推断潜在原因的高阶认知过程。在 AI 教育中，LLM 智能体正被用于模拟和辅助诊断推理学习，帮助学生发展从现象到本质的分析能力。\r \r 核心问题：结构化 vs 提问式脚手架\r \r LAK 2026 论文 \"Structuring versus Problemat...",
+    "path": "/theory/诊断推理与LLM智能体"
+  }
+]

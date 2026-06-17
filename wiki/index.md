@@ -170,6 +170,54 @@
 | [CausaDisco](../entities/CausaDisco/) | 系统 | 亚里士多德四因说框架引导的LLM自我学习系统，N=36对照实验验证 |
 | [Edu-MMBias](../entities/Edu-MMBias/) | 框架 | 首个VLM教育场景多模态偏见审计框架，三层诊断认知/情感/行为偏见 |
 | [PAL](../entities/PAL/) | 系统 | 基于视频课程的实时自适应学习系统，多模态分析 + 实时难度调整 |
+| [Khan Academy](../entities/Khan-Academy/) | 教育科技公司 | 全球最大非营利教育平台，推出 Khanmigo AI 辅导系统 |
+| [Duolingo](../entities/Duolingo/) | 教育科技公司 | 全球最受欢迎的语言学习平台，推出 Duolingo Max AI 功能 |
+| [Squirrel AI](../entities/Squirrel-AI/) | 教育科技公司 | 中国领先的 AI 教育平台，专注 K-12 自适应学习 |
+| [好未来](../entities/好未来/) | 教育科技公司 | 中国领先的教育科技公司，提供 AI 教师系统 |
+| [Coursera](../entities/Coursera/) | 教育科技公司 | 全球领先的在线教育平台，与顶尖大学合作 |
+| [Khanmigo](../entities/Khanmigo/) | AI 教育产品 | Khan Academy 推出的 GPT-4 AI 辅导系统 |
+| [Duolingo Max](../entities/Duolingo-Max/) | AI 教育产品 | Duolingo 推出的 AI 驱动高级订阅版本 |
+| [Squirrel AI 产品](../entities/Squirrel-AI-产品/) | AI 教育产品 | 松鼠AI 的自适应学习系统和 AI 教师系统 |
+| [OpenAI Gym Education](../entities/OpenAI-Gym-Education/) | 开源框架 | 基于 OpenAI Gym 的教育应用框架 |
+| [Edmentum](../entities/Edmentum/) | 教育科技公司 | 提供 AI 驱动的在线学习平台 |
+| [UNESCO AI 教育](../entities/UNESCO-AI教育/) | 国际机构 | UNESCO 的 AI 教育倡议和政策框架 |
+| [中国教育部 AI 政策](../entities/中国教育部-AI政策/) | 政府机构 | 中国教育部的 AI 教育政策和指导文件 |
+| [AIED 会议](../entities/AIED会议/) | 学术会议 | AI 教育领域最重要的国际学术会议 |
+| [CHI 会议](../entities/CHI会议/) | 学术会议 | 人机交互领域最顶级的国际学术会议 |
+| [LAK 会议](../entities/LAK会议/) | 学术会议 | 学习分析领域最重要的国际学术会议 |
+| [Chris Piech](../entities/Chris-Piech/) | 研究者 | Stanford 副教授，DKT 作者 |
+| [Kenneth Koedinger](../entities/Kenneth-Koedinger/) | 研究者 | CMU 教授，认知导师创始人 |
+| [Neil Heffernan](../entities/Neil-Heffernan/) | 研究者 | WPI 教授，ASSISTments 创始人 |
+| [Emma Brunskill](../entities/Emma-Brunskill/) | 研究者 | Stanford 副教授，强化学习教育专家 |
+| [Xiangen Hu](../entities/Xiangen-Hu/) | 研究者 | Memphis 教授，知识追踪专家 |
+| [Stanford HAI](../entities/Stanford-HAI/) | 研究机构 | Stanford 大学 AI 研究院 |
+| [CMU Learning Science](../entities/CMU-Learning-Science/) | 研究机构 | CMU 学习科学实验室 |
+| [ASSISTments 团队](../entities/ASSISTments团队/) | 研究团队 | ASSISTments 平台研发团队 |
+
+---
+
+## 时间线
+
+| 时间线 | 描述 |
+|--------|------|
+| [2020-2026 年度总览](../timelines/) | AI 教育领域年度发展总览 |
+| [知识追踪发展史](../timelines/知识追踪发展史/) | 知识追踪技术 20 年演进 |
+| [自适应学习系统演进](../timelines/自适应学习系统演进/) | 自适应学习系统 50 年发展 |
+
+---
+
+## 教程
+
+| 教程 | 描述 |
+|------|------|
+| [知识追踪入门](../tutorials/知识追踪入门/) | 知识追踪核心概念、主流方法和实际应用 |
+| [NLP in Education 入门](../tutorials/NLP-in-Education入门/) | NLP 在教育中的应用场景和技术演进 |
+
+---
+
+## 图谱
+
+[→ 查看交互式知识图谱](/graph/){ .md-button }
 
 ---
 
@@ -178,7 +226,19 @@
 | 对比项 | 描述 |
 |--------|------|
 | [AI教育研究方法对比](../comparisons/AI教育研究方法对比/) | 学生AI行为研究（SEM+fsQCA）、协作学习仿真、写作拥有感等研究方法横向对比 |
+| [AI教育产品对比](../comparisons/AI教育产品对比/) | Khanmigo vs Duolingo Max vs Squirrel AI 多维度对比 |
+| [知识追踪方法对比](../comparisons/知识追踪方法对比/) | BKT vs DKT vs RAG-KT 技术路线对比 |
+| [自适应学习框架对比](../comparisons/自适应学习框架对比/) | 规则驱动 vs 数据驱动 vs LLM 驱动框架对比 |
 
+---
+
+## 争议
+
+| 争议 | 描述 |
+|------|------|
+| [AI 替代教师争议](../controversies/AI替代教师争议/) | AI 是否应该替代教师？效率 vs 情感连接 |
+| [AI 作弊争议](../controversies/AI作弊争议/) | 学生使用 AI 是否构成作弊？工具 vs 作弊 |
+| [AI 教育公平性争议](../controversies/AI教育公平性争议/) | AI 教育是否会加剧教育不平等？ |
 ---
 
 ## 原始资料
@@ -217,4 +277,4 @@
 ---
 
 !!! info "最后更新"
-    2026-04-28 | 总页面数: 45（14→25 papers + 8 new concepts）
+    2026-06-17 | 总页面数: 92（25 papers + 22 concepts + 27 entities + 4 comparisons + 3 controversies + 9 timelines + 2 tutorials + 1 graph）

@@ -1,0 +1,753 @@
+{
+  "nodes": [
+    {
+      "id": "AI教育研究方法对比",
+      "label": "AI教育研究方法对比",
+      "type": "comparison",
+      "color": "#9E9E9E",
+      "path": "comparisons\\AI教育研究方法对比.md"
+    },
+    {
+      "id": "AI写作辅助与拥有感",
+      "label": "AI写作辅助与拥有感",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\AI写作辅助与拥有感.md"
+    },
+    {
+      "id": "AI学术诚信与隐瞒行为",
+      "label": "AI学术诚信与隐瞒行为",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\AI学术诚信与隐瞒行为.md"
+    },
+    {
+      "id": "个性化问题生成",
+      "label": "个性化问题生成",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\个性化问题生成.md"
+    },
+    {
+      "id": "协作学习仿真",
+      "label": "协作学习仿真",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\协作学习仿真.md"
+    },
+    {
+      "id": "可解释教学编排",
+      "label": "可解释教学编排",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\可解释教学编排.md"
+    },
+    {
+      "id": "学习脚手架",
+      "label": "学习脚手架",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\学习脚手架.md"
+    },
+    {
+      "id": "学生主导AI政策",
+      "label": "学生主导AI政策",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\学生主导AI政策.md"
+    },
+    {
+      "id": "教学智能体",
+      "label": "教学智能体",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\教学智能体.md"
+    },
+    {
+      "id": "教育公平与偏见",
+      "label": "教育公平与偏见",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\教育公平与偏见.md"
+    },
+    {
+      "id": "知识追踪",
+      "label": "知识追踪",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\知识追踪.md"
+    },
+    {
+      "id": "社会机器人与CASA范式",
+      "label": "社会机器人与CASA范式",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\社会机器人与CASA范式.md"
+    },
+    {
+      "id": "自动选择题生成",
+      "label": "自动选择题生成",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\自动选择题生成.md"
+    },
+    {
+      "id": "自适应学习系统",
+      "label": "自适应学习系统",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\自适应学习系统.md"
+    },
+    {
+      "id": "诊断推理与LLM智能体",
+      "label": "诊断推理与LLM智能体",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "concepts\\诊断推理与LLM智能体.md"
+    },
+    {
+      "id": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "label": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\AIED会议.md"
+    },
+    {
+      "id": "ASSISTments 团队",
+      "label": "ASSISTments 团队",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\ASSISTments团队.md"
+    },
+    {
+      "id": "CausaDisco",
+      "label": "CausaDisco",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\CausaDisco.md"
+    },
+    {
+      "id": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+      "label": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\CHI会议.md"
+    },
+    {
+      "id": "Chris Piech",
+      "label": "Chris Piech",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Chris-Piech.md"
+    },
+    {
+      "id": "CMU Learning Science Lab",
+      "label": "CMU Learning Science Lab",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\CMU-Learning-Science.md"
+    },
+    {
+      "id": "Coursera",
+      "label": "Coursera",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Coursera.md"
+    },
+    {
+      "id": "Duolingo Max",
+      "label": "Duolingo Max",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Duolingo-Max.md"
+    },
+    {
+      "id": "Duolingo",
+      "label": "Duolingo",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Duolingo.md"
+    },
+    {
+      "id": "Edmentum",
+      "label": "Edmentum",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Edmentum.md"
+    },
+    {
+      "id": "Edu-MMBias",
+      "label": "Edu-MMBias",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Edu-MMBias.md"
+    },
+    {
+      "id": "Emma Brunskill",
+      "label": "Emma Brunskill",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Emma-Brunskill.md"
+    },
+    {
+      "id": "Kenneth Koedinger",
+      "label": "Kenneth Koedinger",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Kenneth-Koedinger.md"
+    },
+    {
+      "id": "Khan Academy",
+      "label": "Khan Academy",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Khan-Academy.md"
+    },
+    {
+      "id": "Khanmigo",
+      "label": "Khanmigo",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Khanmigo.md"
+    },
+    {
+      "id": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+      "label": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\LAK会议.md"
+    },
+    {
+      "id": "Neil Heffernan",
+      "label": "Neil Heffernan",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Neil-Heffernan.md"
+    },
+    {
+      "id": "OpenAI Gym for Education",
+      "label": "OpenAI Gym for Education",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\OpenAI-Gym-Education.md"
+    },
+    {
+      "id": "PAL (Personalized Adaptive Learner)",
+      "label": "PAL (Personalized Adaptive Learner)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\PAL.md"
+    },
+    {
+      "id": "Squirrel AI 产品 (松鼠AI产品)",
+      "label": "Squirrel AI 产品 (松鼠AI产品)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Squirrel-AI-产品.md"
+    },
+    {
+      "id": "Squirrel AI (松鼠AI)",
+      "label": "Squirrel AI (松鼠AI)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Squirrel-AI.md"
+    },
+    {
+      "id": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "label": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Stanford-HAI.md"
+    },
+    {
+      "id": "UNESCO AI 教育倡议",
+      "label": "UNESCO AI 教育倡议",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\UNESCO-AI教育.md"
+    },
+    {
+      "id": "Xiangen Hu",
+      "label": "Xiangen Hu",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Xiangen-Hu.md"
+    },
+    {
+      "id": "Yiran-Du研究团队",
+      "label": "Yiran-Du研究团队",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\Yiran-Du研究团队.md"
+    },
+    {
+      "id": "中国教育部 AI 政策",
+      "label": "中国教育部 AI 政策",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\中国教育部-AI政策.md"
+    },
+    {
+      "id": "好未来 (TAL Education)",
+      "label": "好未来 (TAL Education)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "entities\\好未来.md"
+    },
+    {
+      "id": "2020年 AI 教育发展总览",
+      "label": "2020年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\2020.md"
+    },
+    {
+      "id": "2021年 AI 教育发展总览",
+      "label": "2021年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\2021.md"
+    },
+    {
+      "id": "2022年 AI 教育发展总览",
+      "label": "2022年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\2022.md"
+    },
+    {
+      "id": "2023年 AI 教育发展总览",
+      "label": "2023年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\2023.md"
+    },
+    {
+      "id": "2024年 AI 教育发展总览",
+      "label": "2024年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\2024.md"
+    },
+    {
+      "id": "2025年 AI 教育发展总览",
+      "label": "2025年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\2025.md"
+    },
+    {
+      "id": "2026年 AI 教育发展总览",
+      "label": "2026年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\2026.md"
+    },
+    {
+      "id": "知识追踪发展史",
+      "label": "知识追踪发展史",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\知识追踪发展史.md"
+    },
+    {
+      "id": "自适应学习系统演进",
+      "label": "自适应学习系统演进",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "timelines\\自适应学习系统演进.md"
+    },
+    {
+      "id": "NLP in Education 入门指南",
+      "label": "NLP in Education 入门指南",
+      "type": "tutorial",
+      "color": "#9C27B0",
+      "path": "tutorials\\NLP-in-Education入门.md"
+    },
+    {
+      "id": "知识追踪入门指南",
+      "label": "知识追踪入门指南",
+      "type": "tutorial",
+      "color": "#9C27B0",
+      "path": "tutorials\\知识追踪入门.md"
+    }
+  ],
+  "edges": [
+    {
+      "from": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "ASSISTments 团队",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "ASSISTments 团队",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+      "to": "社会机器人与CASA范式",
+      "type": "related"
+    },
+    {
+      "from": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+      "to": "学生主导AI政策",
+      "type": "related"
+    },
+    {
+      "from": "Chris Piech",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Chris Piech",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "CMU Learning Science Lab",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "CMU Learning Science Lab",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "CMU Learning Science Lab",
+      "to": "学习脚手架",
+      "type": "related"
+    },
+    {
+      "from": "Coursera",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Coursera",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "Coursera",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Coursera",
+      "to": "Khan Academy",
+      "type": "related"
+    },
+    {
+      "from": "Duolingo Max",
+      "to": "Duolingo",
+      "type": "related"
+    },
+    {
+      "from": "Duolingo Max",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "Duolingo Max",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Duolingo Max",
+      "to": "Khanmigo",
+      "type": "related"
+    },
+    {
+      "from": "Duolingo",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Duolingo",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Duolingo",
+      "to": "Khan Academy",
+      "type": "related"
+    },
+    {
+      "from": "Edmentum",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Edmentum",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Edmentum",
+      "to": "个性化问题生成",
+      "type": "related"
+    },
+    {
+      "from": "Edmentum",
+      "to": "Khan Academy",
+      "type": "related"
+    },
+    {
+      "from": "Edmentum",
+      "to": "Coursera",
+      "type": "related"
+    },
+    {
+      "from": "Emma Brunskill",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Emma Brunskill",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Emma Brunskill",
+      "to": "个性化问题生成",
+      "type": "related"
+    },
+    {
+      "from": "Kenneth Koedinger",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Kenneth Koedinger",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Kenneth Koedinger",
+      "to": "学习脚手架",
+      "type": "related"
+    },
+    {
+      "from": "Khan Academy",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Khan Academy",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "Khan Academy",
+      "to": "Duolingo",
+      "type": "related"
+    },
+    {
+      "from": "Khan Academy",
+      "to": "Coursera",
+      "type": "related"
+    },
+    {
+      "from": "Khanmigo",
+      "to": "Khan Academy",
+      "type": "related"
+    },
+    {
+      "from": "Khanmigo",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "Khanmigo",
+      "to": "Duolingo Max",
+      "type": "related"
+    },
+    {
+      "from": "Khanmigo",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Neil Heffernan",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Neil Heffernan",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "OpenAI Gym for Education",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "OpenAI Gym for Education",
+      "to": "协作学习仿真",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI 产品 (松鼠AI产品)",
+      "to": "Squirrel AI (松鼠AI)",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI 产品 (松鼠AI产品)",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI 产品 (松鼠AI产品)",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI 产品 (松鼠AI产品)",
+      "to": "个性化问题生成",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI 产品 (松鼠AI产品)",
+      "to": "Khanmigo",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI 产品 (松鼠AI产品)",
+      "to": "Duolingo Max",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI (松鼠AI)",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI (松鼠AI)",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI (松鼠AI)",
+      "to": "个性化问题生成",
+      "type": "related"
+    },
+    {
+      "from": "Squirrel AI (松鼠AI)",
+      "to": "Khan Academy",
+      "type": "related"
+    },
+    {
+      "from": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "to": "教育公平与偏见",
+      "type": "related"
+    },
+    {
+      "from": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "to": "学生主导AI政策",
+      "type": "related"
+    },
+    {
+      "from": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "UNESCO AI 教育倡议",
+      "to": "教育公平与偏见",
+      "type": "related"
+    },
+    {
+      "from": "UNESCO AI 教育倡议",
+      "to": "学生主导AI政策",
+      "type": "related"
+    },
+    {
+      "from": "UNESCO AI 教育倡议",
+      "to": "AI学术诚信与隐瞒行为",
+      "type": "related"
+    },
+    {
+      "from": "Xiangen Hu",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "Xiangen Hu",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "中国教育部 AI 政策",
+      "to": "学生主导AI政策",
+      "type": "related"
+    },
+    {
+      "from": "中国教育部 AI 政策",
+      "to": "教育公平与偏见",
+      "type": "related"
+    },
+    {
+      "from": "中国教育部 AI 政策",
+      "to": "AI学术诚信与隐瞒行为",
+      "type": "related"
+    },
+    {
+      "from": "中国教育部 AI 政策",
+      "to": "Squirrel AI (松鼠AI)",
+      "type": "related"
+    },
+    {
+      "from": "好未来 (TAL Education)",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "好未来 (TAL Education)",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "好未来 (TAL Education)",
+      "to": "AI写作辅助与拥有感",
+      "type": "related"
+    }
+  ],
+  "stats": {
+    "total_nodes": 53,
+    "total_edges": 73,
+    "node_types": {
+      "concept": 14,
+      "entity": 27,
+      "paper": 0,
+      "timeline": 9,
+      "tutorial": 2
+    }
+  }
+}

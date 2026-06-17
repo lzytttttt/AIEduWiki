@@ -1,0 +1,690 @@
+{
+  "nodes": [
+    {
+      "id": "2020年 AI 教育发展总览",
+      "label": "2020年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/2020.mdx",
+      "edges": 0
+    },
+    {
+      "id": "2021年 AI 教育发展总览",
+      "label": "2021年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/2021.mdx",
+      "edges": 0
+    },
+    {
+      "id": "2022年 AI 教育发展总览",
+      "label": "2022年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/2022.mdx",
+      "edges": 0
+    },
+    {
+      "id": "2023年 AI 教育发展总览",
+      "label": "2023年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/2023.mdx",
+      "edges": 0
+    },
+    {
+      "id": "2024年 AI 教育发展总览",
+      "label": "2024年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/2024.mdx",
+      "edges": 0
+    },
+    {
+      "id": "2025年 AI 教育发展总览",
+      "label": "2025年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/2025.mdx",
+      "edges": 0
+    },
+    {
+      "id": "2026年 AI 教育发展总览",
+      "label": "2026年 AI 教育发展总览",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/2026.mdx",
+      "edges": 0
+    },
+    {
+      "id": "AI 作弊争议",
+      "label": "AI 作弊争议",
+      "type": "controversy",
+      "color": "#E91E63",
+      "path": "insights/AI作弊争议.mdx",
+      "edges": 3
+    },
+    {
+      "id": "AI 教育产品对比",
+      "label": "AI 教育产品对比",
+      "type": "comparison",
+      "color": "#F44336",
+      "path": "insights/AI教育产品对比.mdx",
+      "edges": 7
+    },
+    {
+      "id": "AI 教育公平性争议",
+      "label": "AI 教育公平性争议",
+      "type": "controversy",
+      "color": "#E91E63",
+      "path": "insights/AI教育公平性争议.mdx",
+      "edges": 4
+    },
+    {
+      "id": "AI教育研究方法对比",
+      "label": "AI教育研究方法对比",
+      "type": "comparison",
+      "color": "#F44336",
+      "path": "insights/AI教育研究方法对比.mdx",
+      "edges": 0
+    },
+    {
+      "id": "AI 替代教师争议",
+      "label": "AI 替代教师争议",
+      "type": "controversy",
+      "color": "#E91E63",
+      "path": "insights/AI替代教师争议.mdx",
+      "edges": 5
+    },
+    {
+      "id": "知识追踪发展史",
+      "label": "知识追踪发展史",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/知识追踪发展史.mdx",
+      "edges": 1
+    },
+    {
+      "id": "知识追踪方法对比",
+      "label": "知识追踪方法对比",
+      "type": "comparison",
+      "color": "#F44336",
+      "path": "insights/知识追踪方法对比.mdx",
+      "edges": 2
+    },
+    {
+      "id": "自适应学习框架对比",
+      "label": "自适应学习框架对比",
+      "type": "comparison",
+      "color": "#F44336",
+      "path": "insights/自适应学习框架对比.mdx",
+      "edges": 6
+    },
+    {
+      "id": "自适应学习系统演进",
+      "label": "自适应学习系统演进",
+      "type": "timeline",
+      "color": "#FF9800",
+      "path": "insights/自适应学习系统演进.mdx",
+      "edges": 1
+    },
+    {
+      "id": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "label": "AIED 会议 (International Conference on Artificial Intelligence in Education)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/AIED会议.mdx",
+      "edges": 0
+    },
+    {
+      "id": "ASSISTments 团队",
+      "label": "ASSISTments 团队",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/ASSISTments团队.mdx",
+      "edges": 0
+    },
+    {
+      "id": "CausaDisco",
+      "label": "CausaDisco",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/CausaDisco.mdx",
+      "edges": 0
+    },
+    {
+      "id": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+      "label": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/CHI会议.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Chris Piech",
+      "label": "Chris Piech",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Chris-Piech.mdx",
+      "edges": 0
+    },
+    {
+      "id": "CMU Learning Science Lab",
+      "label": "CMU Learning Science Lab",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/CMU-Learning-Science.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Coursera",
+      "label": "Coursera",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Coursera.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Duolingo Max",
+      "label": "Duolingo Max",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Duolingo-Max.mdx",
+      "edges": 1
+    },
+    {
+      "id": "Duolingo",
+      "label": "Duolingo",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Duolingo.mdx",
+      "edges": 1
+    },
+    {
+      "id": "Edmentum",
+      "label": "Edmentum",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Edmentum.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Edu-MMBias",
+      "label": "Edu-MMBias",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Edu-MMBias.mdx",
+      "edges": 1
+    },
+    {
+      "id": "Emma Brunskill",
+      "label": "Emma Brunskill",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Emma-Brunskill.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Kenneth Koedinger",
+      "label": "Kenneth Koedinger",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Kenneth-Koedinger.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Khan Academy",
+      "label": "Khan Academy",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Khan-Academy.mdx",
+      "edges": 2
+    },
+    {
+      "id": "Khanmigo",
+      "label": "Khanmigo",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Khanmigo.mdx",
+      "edges": 3
+    },
+    {
+      "id": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+      "label": "LAK 会议 (International Learning Analytics & Knowledge Conference)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/LAK会议.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Neil Heffernan",
+      "label": "Neil Heffernan",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Neil-Heffernan.mdx",
+      "edges": 0
+    },
+    {
+      "id": "OpenAI Gym for Education",
+      "label": "OpenAI Gym for Education",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/OpenAI-Gym-Education.mdx",
+      "edges": 0
+    },
+    {
+      "id": "PAL (Personalized Adaptive Learner)",
+      "label": "PAL (Personalized Adaptive Learner)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/PAL.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Squirrel AI 产品 (松鼠AI产品)",
+      "label": "Squirrel AI 产品 (松鼠AI产品)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Squirrel-AI-产品.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Squirrel AI (松鼠AI)",
+      "label": "Squirrel AI (松鼠AI)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Squirrel-AI.mdx",
+      "edges": 3
+    },
+    {
+      "id": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "label": "Stanford HAI (Human-Centered Artificial Intelligence)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Stanford-HAI.mdx",
+      "edges": 0
+    },
+    {
+      "id": "UNESCO AI 教育倡议",
+      "label": "UNESCO AI 教育倡议",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/UNESCO-AI教育.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Xiangen Hu",
+      "label": "Xiangen Hu",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Xiangen-Hu.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Yiran-Du研究团队",
+      "label": "Yiran-Du研究团队",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Yiran-Du研究团队.mdx",
+      "edges": 0
+    },
+    {
+      "id": "中国教育部 AI 政策",
+      "label": "中国教育部 AI 政策",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/中国教育部-AI政策.mdx",
+      "edges": 0
+    },
+    {
+      "id": "好未来 (TAL Education)",
+      "label": "好未来 (TAL Education)",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/好未来.mdx",
+      "edges": 0
+    },
+    {
+      "id": "AI写作辅助与拥有感",
+      "label": "AI写作辅助与拥有感",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "technology/AI写作辅助与拥有感.mdx",
+      "edges": 1
+    },
+    {
+      "id": "NLP in Education 入门指南",
+      "label": "NLP in Education 入门指南",
+      "type": "tutorial",
+      "color": "#9C27B0",
+      "path": "technology/NLP-in-Education入门.mdx",
+      "edges": 0
+    },
+    {
+      "id": "教学智能体",
+      "label": "教学智能体",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "technology/教学智能体.mdx",
+      "edges": 3
+    },
+    {
+      "id": "知识追踪入门指南",
+      "label": "知识追踪入门指南",
+      "type": "tutorial",
+      "color": "#9C27B0",
+      "path": "technology/知识追踪入门.mdx",
+      "edges": 0
+    },
+    {
+      "id": "自动选择题生成",
+      "label": "自动选择题生成",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "technology/自动选择题生成.mdx",
+      "edges": 0
+    },
+    {
+      "id": "AI学术诚信与隐瞒行为",
+      "label": "AI学术诚信与隐瞒行为",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/AI学术诚信与隐瞒行为.mdx",
+      "edges": 1
+    },
+    {
+      "id": "AI辅助代码审查与自我调节学习",
+      "label": "AI辅助代码审查与自我调节学习",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/AI辅助代码审查与自我调节学习.mdx",
+      "edges": 0
+    },
+    {
+      "id": "STEM论证分组系统",
+      "label": "STEM论证分组系统",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/STEM论证分组系统.mdx",
+      "edges": 0
+    },
+    {
+      "id": "个性化工作例生成",
+      "label": "个性化工作例生成",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/个性化工作例生成.mdx",
+      "edges": 0
+    },
+    {
+      "id": "个性化问题生成",
+      "label": "个性化问题生成",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/个性化问题生成.mdx",
+      "edges": 0
+    },
+    {
+      "id": "协作学习仿真",
+      "label": "协作学习仿真",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/协作学习仿真.mdx",
+      "edges": 0
+    },
+    {
+      "id": "可解释学生行为诊断对话系统",
+      "label": "可解释学生行为诊断对话系统",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/可解释学生行为诊断对话系统.mdx",
+      "edges": 0
+    },
+    {
+      "id": "可解释教学编排",
+      "label": "可解释教学编排",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/可解释教学编排.mdx",
+      "edges": 0
+    },
+    {
+      "id": "学习脚手架",
+      "label": "学习脚手架",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/学习脚手架.mdx",
+      "edges": 0
+    },
+    {
+      "id": "学生主导AI政策",
+      "label": "学生主导AI政策",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/学生主导AI政策.mdx",
+      "edges": 1
+    },
+    {
+      "id": "教学化身与教师存在感",
+      "label": "教学化身与教师存在感",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/教学化身与教师存在感.mdx",
+      "edges": 0
+    },
+    {
+      "id": "教育公平与偏见",
+      "label": "教育公平与偏见",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/教育公平与偏见.mdx",
+      "edges": 2
+    },
+    {
+      "id": "教育合成数据基准",
+      "label": "教育合成数据基准",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/教育合成数据基准.mdx",
+      "edges": 0
+    },
+    {
+      "id": "教育游戏自动生成",
+      "label": "教育游戏自动生成",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/教育游戏自动生成.mdx",
+      "edges": 0
+    },
+    {
+      "id": "知识追踪",
+      "label": "知识追踪",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/知识追踪.mdx",
+      "edges": 3
+    },
+    {
+      "id": "社会机器人与CASA范式",
+      "label": "社会机器人与CASA范式",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/社会机器人与CASA范式.mdx",
+      "edges": 0
+    },
+    {
+      "id": "自适应学习系统",
+      "label": "自适应学习系统",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/自适应学习系统.mdx",
+      "edges": 3
+    },
+    {
+      "id": "英语口语分级生成系统",
+      "label": "英语口语分级生成系统",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/英语口语分级生成系统.mdx",
+      "edges": 0
+    },
+    {
+      "id": "诊断推理与LLM智能体",
+      "label": "诊断推理与LLM智能体",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/诊断推理与LLM智能体.mdx",
+      "edges": 0
+    }
+  ],
+  "edges": [
+    {
+      "from": "AI 作弊争议",
+      "to": "AI学术诚信与隐瞒行为",
+      "type": "related"
+    },
+    {
+      "from": "AI 作弊争议",
+      "to": "学生主导AI政策",
+      "type": "related"
+    },
+    {
+      "from": "AI 作弊争议",
+      "to": "AI写作辅助与拥有感",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育产品对比",
+      "to": "Khanmigo",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育产品对比",
+      "to": "Duolingo Max",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育产品对比",
+      "to": "Khan Academy",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育产品对比",
+      "to": "Duolingo",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育产品对比",
+      "to": "Squirrel AI (松鼠AI)",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育产品对比",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育产品对比",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育公平性争议",
+      "to": "教育公平与偏见",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育公平性争议",
+      "to": "Edu-MMBias",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育公平性争议",
+      "to": "Khan Academy",
+      "type": "related"
+    },
+    {
+      "from": "AI 教育公平性争议",
+      "to": "Squirrel AI (松鼠AI)",
+      "type": "related"
+    },
+    {
+      "from": "AI 替代教师争议",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "AI 替代教师争议",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "AI 替代教师争议",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "AI 替代教师争议",
+      "to": "Khanmigo",
+      "type": "related"
+    },
+    {
+      "from": "AI 替代教师争议",
+      "to": "教育公平与偏见",
+      "type": "related"
+    },
+    {
+      "from": "知识追踪方法对比",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "知识追踪方法对比",
+      "to": "知识追踪发展史",
+      "type": "related"
+    },
+    {
+      "from": "自适应学习框架对比",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "自适应学习框架对比",
+      "to": "Squirrel AI (松鼠AI)",
+      "type": "related"
+    },
+    {
+      "from": "自适应学习框架对比",
+      "to": "Khanmigo",
+      "type": "related"
+    },
+    {
+      "from": "自适应学习框架对比",
+      "to": "自适应学习系统演进",
+      "type": "related"
+    },
+    {
+      "from": "自适应学习框架对比",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "自适应学习框架对比",
+      "to": "知识追踪",
+      "type": "related"
+    }
+  ],
+  "stats": {
+    "total_nodes": 67,
+    "total_edges": 27,
+    "node_types": {
+      "concept": 22,
+      "entity": 27,
+      "paper": 0,
+      "timeline": 9,
+      "tutorial": 2,
+      "comparison": 4,
+      "controversy": 3
+    }
+  }
+}

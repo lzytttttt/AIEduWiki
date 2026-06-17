@@ -1,0 +1,65 @@
+---
+title: Xiangen Hu
+created: 2026-06-17
+updated: 2026-06-17
+type: entity
+tags: [researcher, memphis, knowledge-tracking, 中国]
+sources: [https://www.memphis.edu/faculty/xhu1/]
+---
+
+# Xiangen Hu
+
+## 简介
+
+Xiangen Hu 是 University of Memphis 心理学系教授，专注于知识追踪、学习分析和教育数据挖掘研究。他在知识追踪领域有重要贡献，特别是在贝叶斯知识追踪和深度学习知识追踪方面。
+
+## 研究方向
+
+### 知识追踪
+
+- **贝叶斯知识追踪**: BKT 模型研究
+- **深度学习知识追踪**: DKT 模型研究
+- **可解释性**: 知识追踪模型的可解释性
+
+### 教育数据挖掘
+
+- **学习分析**: 学习行为分析
+- **预测模型**: 学习结果预测
+- **个性化推荐**: 个性化学习推荐
+
+### 相关概念
+
+- [知识追踪](../concepts/知识追踪/) — Xiangen Hu 的核心研究方向
+- [自适应学习系统](../concepts/自适应学习系统/) — 个性化学习应用
+- [教育合成数据基准](教育合成数据基准/) — 教育数据分析
+
+## 代表性工作
+
+### 论文
+
+- **Knowledge Tracing** (2000s-2020s): 知识追踪系列研究
+- **BKT Models** (2010s): 贝叶斯知识追踪模型研究
+- **Deep Knowledge Tracing** (2020s): 深度学习知识追踪研究
+
+### 项目
+
+- **Memphis 学习分析**: Memphis 学习分析项目
+- **教育数据集**: 多个公开教育数据集
+- **知识追踪工具**: 知识追踪开源工具
+
+## 与其他实体的关系
+
+- **相关研究者**: 与 [Chris-Piech](Chris-Piech/)、[Kenneth-Koedinger](Kenneth-Koedinger/) 等合作
+- **相关概念**: [知识追踪](../concepts/知识追踪/)、[自适应学习系统](../concepts/自适应学习系统/)
+- **学术影响**: 知识追踪领域的重要研究者
+- **中国背景**: 中国出生的研究者
+
+## 来源
+
+- 个人主页: https://www.memphis.edu/faculty/xhu1/
+- Google Scholar: Xiangen Hu
+- University of Memphis: https://www.memphis.edu
+
+---
+
+*页面创建于 2026-06-17*

@@ -1,0 +1,66 @@
+---
+title: Squirrel AI (松鼠AI)
+created: 2026-06-17
+updated: 2026-06-17
+type: entity
+tags: [edtech, company, adaptive-learning, 中国, k12]
+sources: [https://www.squirrelai.com]
+---
+
+# Squirrel AI (松鼠AI)
+
+## 概述
+
+Squirrel AI（松鼠AI）是一家中国教育科技公司，由 Derek Li 于 2014 年创立。公司专注于开发基于人工智能的自适应学习系统，是中国领先的 AI 教育平台之一。其核心产品是基于知识图谱和自适应算法的智能学习系统。
+
+## 关键事实与时间线
+
+| 时间 | 事件 |
+|------|------|
+| 2014 | Derek Li 创立 Squirrel AI |
+| 2016 | 推出自适应学习系统 |
+| 2017 | 获得 $15M 融资 |
+| 2018 | 与 SRI International 合作 |
+| 2019 | 用户突破 200 万 |
+| 2020 | 疫情期间用户激增 |
+| 2021 | 推出 AI 教师系统 |
+| 2023 | 扩展到东南亚市场 |
+
+## AI 教育应用
+
+### 自适应学习系统
+
+Squirrel AI 的核心是其 [自适应学习系统](../concepts/自适应学习系统/)：
+
+- **知识图谱**: 覆盖 K-12 全学科的知识点图谱
+- **精准诊断**: 通过少量题目精准诊断学生知识状态
+- **个性化推荐**: 根据诊断结果推荐学习路径
+
+### AI 教师系统
+
+- **虚拟教师**: AI 驱动的虚拟教师进行一对一辅导
+- **实时反馈**: 实时分析学生答题并提供反馈
+- **情感识别**: 通过摄像头识别学生情绪状态
+
+### 相关概念
+
+- [自适应学习系统](../concepts/自适应学习系统/) — Squirrel AI 的核心技术
+- [知识追踪](../concepts/知识追踪/) — 追踪学生知识状态
+- [个性化问题生成](../concepts/个性化问题生成/) — AI 生成个性化练习题
+
+## 与其他实体的关系
+
+- **竞争关系**: 与 [好未来](../entities/好未来/)、[Khan Academy](../entities/Khan-Academy/) 等竞争
+- **技术合作**: 与 SRI International 合作研发
+- **市场定位**: 专注于中国 K-12 市场
+- **国际化**: 扩展到东南亚等市场
+
+## 来源
+
+- Squirrel AI 官方网站: https://www.squirrelai.com
+- SRI International 合作: https://www.sri.com/article/squirrel-ai-learning-by-sri-international
+- 行业报道: https://techcrunch.com/tag/squirrel-ai/
+
+---
+
+*页面创建于 2026-06-17*

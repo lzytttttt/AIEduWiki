@@ -1,0 +1,65 @@
+---
+title: Neil Heffernan
+created: 2026-06-17
+updated: 2026-06-17
+type: entity
+tags: [researcher, wpi, assistments, educational-data-mining]
+sources: [https://web.cs.wpi.edu/~nth/]
+---
+
+# Neil Heffernan
+
+## 简介
+
+Neil Heffernan 是 Worcester Polytechnic Institute（WPI）计算机科学系教授，是 ASSISTments 在线学习平台的创始人。他的研究聚焦于教育数据挖掘、智能辅导系统和学习分析。
+
+## 研究方向
+
+### ASSISTments
+
+- **在线学习**: 基于 ASSISTments 的在线学习
+- **即时反馈**: 提供即时作业反馈
+- **数据分析**: 学习数据分析
+
+### 教育数据挖掘
+
+- **学习分析**: 学习行为分析
+- **预测模型**: 学习结果预测
+- **个性化推荐**: 个性化学习推荐
+
+### 相关概念
+
+- [知识追踪](../concepts/知识追踪/) — 知识状态追踪
+- [自适应学习系统](../concepts/自适应学习系统/) — 个性化学习
+- [教育合成数据基准](教育合成数据基准/) — 教育数据分析
+
+## 代表性工作
+
+### 论文
+
+- **ASSISTments** (2000s): 开创 ASSISTments 平台
+- **Educational Data Mining** (2010s): 教育数据挖掘研究
+- **Learning Analytics** (2020s): 学习分析研究
+
+### 项目
+
+- **ASSISTments**: 免费在线学习平台
+- **WPI 数据科学**: WPI 数据科学项目
+- **教育研究**: 多个教育研究项目
+
+## 与其他实体的关系
+
+- **机构**: [ASSISTments团队](ASSISTments团队/) 负责人
+- **相关研究者**: 与 [Kenneth-Koedinger](Kenneth-Koedinger/)、[Chris-Piech](Chris-Piech/) 等合作
+- **相关概念**: [知识追踪](../concepts/知识追踪/)、[自适应学习系统](../concepts/自适应学习系统/)
+- **学术影响**: 教育数据挖掘领域的重要研究者
+
+## 来源
+
+- 个人主页: https://web.cs.wpi.edu/~nth/
+- Google Scholar: Neil Heffernan
+- ASSISTments: https://new.assistments.org
+
+---
+
+*页面创建于 2026-06-17*

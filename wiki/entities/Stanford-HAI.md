@@ -1,0 +1,85 @@
+---
+title: Stanford HAI (Human-Centered Artificial Intelligence)
+created: 2026-06-17
+updated: 2026-06-17
+type: entity
+tags: [institution, research-lab, stanford, ai-education, 人机交互]
+sources: [https://hai.stanford.edu]
+---
+
+# Stanford HAI (Human-Centered Artificial Intelligence)
+
+## 概述
+
+Stanford HAI（Human-Centered Artificial Intelligence）是 Stanford 大学的人工智能研究院，成立于 2019 年。研究院致力于推动以人为中心的 AI 研究，包括 AI 教育、AI 伦理、AI 政策等方向。
+
+## 研究方向
+
+### AI 教育
+
+- **个性化学习**: AI 驱动的个性化学习
+- **学习分析**: 学习数据分析
+- **教育公平**: AI 教育的公平性
+
+### AI 伦理
+
+- **公平性**: AI 系统的公平性
+- **透明性**: AI 系统的透明性
+- **隐私保护**: 数据隐私保护
+
+### AI 政策
+
+- **政策研究**: AI 政策研究
+- **政策建议**: 为政府提供政策建议
+- **全球合作**: 全球 AI 合作
+
+### 相关概念
+
+- [教育公平与偏见](../concepts/教育公平与偏见/) — AI 教育的公平性问题
+- [学生主导AI政策](../concepts/学生主导AI政策/) — AI 政策设计
+- [自适应学习系统](../concepts/自适应学习系统/) — 个性化学习技术
+
+## 代表性成果
+
+### 研究项目
+
+- **AI 教育项目**: AI 教育研究项目
+- **伦理研究**: AI 伦理研究项目
+- **政策研究**: AI 政策研究项目
+
+### 学术活动
+
+- **研讨会**: 定期举办 AI 教育研讨会
+- **会议**: 举办 AI 教育相关会议
+- **出版物**: 发布研究报告和政策简报
+
+## 成员
+
+### 核心成员
+
+- [Chris-Piech](Chris-Piech/) — 计算机科学系副教授
+- [Emma-Brunskill](Emma-Brunskill/) — 计算机科学系副教授
+- 其他 Stanford 教授和研究人员
+
+### 合作机构
+
+- **Stanford 教育学院**: 与教育学院合作
+- **Stanford 计算机科学系**: 与 CS 系合作
+- **其他大学**: 与全球其他大学合作
+
+## 与其他实体的关系
+
+- **机构**: Stanford 大学研究院
+- **成员**: [Chris-Piech](Chris-Piech/)、[Emma-Brunskill](Emma-Brunskill/) 等
+- **相关概念**: [教育公平与偏见](../concepts/教育公平与偏见/)、[学生主导AI政策](../concepts/学生主导AI政策/)
+- **学术影响**: AI 教育领域的重要研究机构
+
+## 来源
+
+- Stanford HAI 官方网站: https://hai.stanford.edu
+- Wikipedia: https://en.wikipedia.org/wiki/Stanford_Human-Centered_Artificial_Institute
+- 相关报告: Stanford HAI 研究报告
+
+---
+
+*页面创建于 2026-06-17*

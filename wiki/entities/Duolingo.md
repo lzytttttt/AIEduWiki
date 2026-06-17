@@ -1,0 +1,68 @@
+---
+title: Duolingo
+created: 2026-06-17
+updated: 2026-06-17
+type: entity
+tags: [edtech, company, language-learning, adaptive-learning, 移动学习]
+sources: [https://www.duolingo.com]
+---
+
+# Duolingo
+
+## 概述
+
+Duolingo 是一家美国语言学习平台公司，由 Luis von Ahn 和 Severin Hacker 于 2011 年创立。平台通过游戏化的方式提供超过 40 种语言的免费课程，是全球最受欢迎的语言学习应用之一。
+
+## 关键事实与时间线
+
+| 时间 | 事件 |
+|------|------|
+| 2009 | Luis von Ahn 和 Severin Hacker 在 CMU 创立 Duolingo |
+| 2011 | 推出 Beta 版本 |
+| 2012 | 正式上线，获得 $3.3M 融资 |
+| 2013 | 用户突破 500 万 |
+| 2015 | 推出 Duolingo Test Center |
+| 2018 | IPO 上市（NASDAQ: DUOL） |
+| 2019 | 推出 Duolingo ABC（儿童阅读） |
+| 2021 | 用户突破 5 亿 |
+| 2023 | 推出 Duolingo Max（AI 驱动功能） |
+| 2024 | 扩展 AI 功能，推出角色扮演 |
+
+## AI 教育应用
+
+### 自适应学习系统
+
+Duolingo 使用 [自适应学习系统](../concepts/自适应学习系统/) 技术：
+
+- **知识追踪**: 追踪用户对单词和语法的掌握程度
+- **间隔重复**: 根据遗忘曲线安排复习时间
+- **个性化课程**: 根据用户水平调整课程难度
+
+### AI 驱动功能
+
+- **Birdbrain**: Duolingo 的 AI 引擎，用于个性化推荐
+- **角色扮演**: AI 驱动的对话练习（Duolingo Max）
+- **解释功能**: AI 解释语法和词汇用法
+
+### 相关概念
+
+- [英语口语分级生成系统](英语口语分级生成系统/) — AI 驱动的语言学习
+- [知识追踪](../concepts/知识追踪/) — 追踪学习进度的核心技术
+- [自适应学习系统](../concepts/自适应学习系统/) — 个性化学习的基础
+
+## 与其他实体的关系
+
+- **竞争关系**: 与 [Khan Academy](../entities/Khan-Academy/)、Babbel 等竞争
+- **技术合作**: 与 OpenAI 合作开发 AI 功能
+- **学术研究**: 与 CMU、Stanford 等大学合作
+- **产品线**: Duolingo Max 是 AI 驱动的高级版本
+
+## 来源
+
+- Duolingo 官方网站: https://www.duolingo.com
+- Duolingo Max 介绍: https://blog.duolingo.com/duolingo-max/
+- Wikipedia: https://en.wikipedia.org/wiki/Duolingo
+
+---
+
+*页面创建于 2026-06-17*

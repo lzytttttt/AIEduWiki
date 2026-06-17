@@ -1,0 +1,71 @@
+---
+title: 教育游戏自动生成
+---
+
+# 教育游戏自动生成
+
+> 将教师提问自动转化为可玩的、基于教学法的教育游戏
+
+## 核心定义
+
+**教育游戏自动生成**（Automated Educational Game Generation）指利用AI将学科题目自动转化为具有教学价值的游戏，是游戏化学习（Gamification）和智能教学系统的交叉领域。
+
+## 代表系统：GameDAI
+
+**GameDAI** 是分层多智能体框架，核心指标：
+
+| 指标 | 数据 |
+|------|------|
+| 验证通过率 | 90% |
+| Schema合规率 | 98.3% |
+| Token reduction | 73%（vs ReAct） |
+| 单游戏成本 | $0.46 |
+| 生成时间 | &lt;60秒/游戏 |
+
+### 支持的交互机制
+
+15种交互机制覆盖3类：
+- **空间推理**：拖拽、排列、路径规划
+- **程序执行**：代码执行、调试、算法模拟
+- **高阶Bloom's Taxonomy**：分析、评估、创造
+
+## 架构设计
+
+### 分层多智能体
+
+```
+Instructor Question
+       ↓
+┌─────────────────┐
+│  Phase-based    │
+│  LangGraph      │
+│  Sub-graphs     │
+└─────────────────┘
+       ↓
+┌─────────────────┐
+│  Deterministic  │
+│  Quality Gates  │
+└─────────────────┘
+       ↓
+┌─────────────────┐
+│  Pydantic       │
+│  Schemas        │
+└─────────────────┘
+       ↓
+ Playable Educational Game
+```
+
+### 核心洞察
+
+> Phase-bounded architectural structure与alignment质量的关联性强于prompting strategy alone
+
+## 相关概念
+
+- [教学智能体](/technology/教学智能体)
+- [可解释教学编排](/theory/可解释教学编排)
+- [个性化问题生成](/theory/个性化问题生成)
+- [自适应学习系统](/theory/自适应学习系统)
+
+## 论文
+
+- [GAMED.AI (2604.23947)](../raw/papers/gamed-ai-educational-game-generation-2026.md)

@@ -69,3 +69,52 @@
 - index.md：概念从14增至22个
 - mkdocs.yml nav同步更新
 - 总页面数：26 → 45
+
+## [2026-06-17] create | Phase 1 扩展：AI Agent 工作流 + 时间线 + 教程
+- 新增脚本：agent_fetch.py（arXiv 论文抓取）、agent_generate.py（页面生成）、agent_update_index.py（索引更新）
+- 新增 AGENTS.md：定义 Claude Code 中的论文抓取触发词和工作流
+- 时间线：新增 9 个页面（2020-2026 年度总览 + 知识追踪发展史 + 自适应学习系统演进）
+- 教程：新增 2 个页面（知识追踪入门、NLP in Education 入门）
+- mkdocs.yml nav 同步更新（新增时间线、教程板块）
+- index.md 更新：总页面数 45 → 63
+- 总页面数：63（25 papers + 22 concepts + 4 entities + 1 comparison + 9 timelines + 2 tutorials）
+
+## [2026-06-17] create | Phase 2 扩展：实体页 + 知识图谱
+- 教育科技公司实体：新增 5 个（Khan Academy、Duolingo、Squirrel AI、好未来、Coursera）
+- AI 教育产品实体：新增 3 个（Khanmigo、Duolingo Max、Squirrel AI 产品）
+- 开源工具实体：新增 2 个（OpenAI Gym Education、Edmentum）
+- 政府/机构实体：新增 2 个（UNESCO AI 教育、中国教育部 AI 政策）
+- 会议/期刊实体：新增 3 个（AIED、CHI、LAK）
+- 研究者实体：新增 5 个（Chris Piech、Kenneth Koedinger、Neil Heffernan、Emma Brunskill、Xiangen Hu）
+- 实验室/团队实体：新增 3 个（Stanford HAI、CMU Learning Science、ASSISTments 团队）
+- 新增 build_graph.py 脚本：自动提取 wikilink 生成知识图谱数据
+- 新增 graph.md 交互式图谱页面（vis.js）
+- mkdocs.yml nav 同步更新（新增实体、图谱板块）
+- index.md 更新：总页面数 63 → 86
+- 总页面数：86（25 papers + 22 concepts + 27 entities + 1 comparison + 9 timelines + 2 tutorials + 1 graph）
+
+## [2026-06-17] create | Phase 3 扩展：对比页 + 争议页 + 质量审核
+- 对比页：新增 3 个（AI教育产品对比、知识追踪方法对比、自适应学习框架对比）
+- 争议页：新增 3 个（AI替代教师争议、AI作弊争议、AI教育公平性争议）
+- 新增 lint.py 质量审核脚本：检测断链、孤立页面、标签一致性、frontmatter 完整性
+- 新增 check_updates.py 更新检查脚本：检查已有页面是否有新论文支持
+- mkdocs.yml nav 同步更新（新增对比、争议板块）
+- index.md 更新：总页面数 86 → 92
+- 总页面数：92（25 papers + 22 concepts + 27 entities + 4 comparisons + 3 controversies + 9 timelines + 2 tutorials + 1 graph）
+
+## [2026-06-17] create | 前端重设计：MkDocs → Next.js 全面迁移
+- 技术栈：Next.js 14+ (App Router) + TypeScript + Tailwind CSS + shadcn/ui
+- 内容迁移：67 个 MDX 页面从 wiki/ 迁移到 content/{theory,technology,products,insights}/
+- 信息架构重构：按知识领域分为 4 大类（学习理论/技术方法/产品与公司/争议与趋势）
+- 设计系统：11 个 shadcn/ui 组件 + 自定义全局样式 + 中英文字体（Inter + Noto Sans SC）
+- 布局组件：Navigation、Sidebar、Breadcrumb、TableOfContents、PageLayout、Footer
+- 内容组件：WikiLink、Admonition、ConceptCard、CodeBlock、DataTable、Comments
+- 搜索：Fuse.js 模糊搜索 + ⌘K 命令面板 + 中文支持
+- 知识图谱：react-force-graph 替代 vis-network，59 节点 27 条边
+- 用户系统：GitHub OAuth (NextAuth.js) + 收藏功能 + Giscus 评论
+- 首页 Dashboard：统计卡片 + 分类入口 + 最新更新 + 迷你图谱
+- MDX 管道：remark 插件（wikilink 解析 + admonition 转换）替代 prebuild.py
+- 构建工具：build-graph.mjs + build-search-index.mjs 替代 Python 脚本
+- 构建结果：78 个静态页面全部生成成功
+- 部署：Vercel（移除 output:export，使用服务端渲染支持 NextAuth API）
+- 旧 wiki/ 目录保留为存档，未修改

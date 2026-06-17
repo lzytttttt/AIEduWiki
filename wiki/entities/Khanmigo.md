@@ -1,0 +1,73 @@
+---
+title: Khanmigo
+created: 2026-06-17
+updated: 2026-06-17
+type: entity
+tags: [product, ai-tutor, llm-education, adaptive-learning]
+sources: [https://blog.khanacademy.org/khan-academy-is-launching-a-limited-pilot-of-khanmigo/]
+---
+
+# Khanmigo
+
+## 概述
+
+Khanmigo 是 [Khan Academy](../entities/Khan-Academy/) 于 2023 年推出的 AI 辅导系统，基于 GPT-4 技术。它是一个 [教学智能体](../concepts/教学智能体/)，采用苏格拉底式教学方法，不直接给答案，而是通过提问引导学生思考。
+
+## 核心功能
+
+### 苏格拉底式教学
+
+- **引导式提问**: 不直接给答案，而是通过提问引导学生思考
+- **逐步提示**: 提供逐步提示帮助学生解决问题
+- **鼓励探索**: 鼓励学生自己发现答案
+
+### 多学科支持
+
+- **数学**: 覆盖 K-12 数学课程
+- **科学**: 物理、化学、生物等
+- **编程**: Python、JavaScript 等
+- **人文**: 历史、文学等
+
+### 教师辅助
+
+- **教学计划**: 帮助教师生成教学计划
+- **评估工具**: 生成评估题目和 rubric
+- **学生报告**: 生成学生学习报告
+
+## 技术架构
+
+- **基础模型**: GPT-4
+- **微调**: 针对教育场景微调
+- **安全机制**: 多层安全过滤
+- **知识库**: Khan Academy 课程知识库
+
+## 教育应用场景
+
+### 个性化辅导
+
+- **一对一辅导**: AI 驱动的一对一辅导
+- **实时反馈**: 实时分析学生答题并提供反馈
+- **进度追踪**: 追踪学生学习进度
+
+### 课堂辅助
+
+- **教师助手**: 帮助教师管理课堂
+- **学生答疑**: 回答学生问题
+- **作业批改**: 自动作文批改
+
+## 与其他实体的关系
+
+- **开发方**: [Khan Academy](../entities/Khan-Academy/) 开发
+- **技术基础**: 基于 OpenAI 的 GPT-4
+- **竞争关系**: 与 [Duolingo Max](../entities/Duolingo-Max/)、[Squirrel AI 产品](../entities/Squirrel-AI-产品/) 等竞争
+- **相关概念**: [教学智能体](../concepts/教学智能体/)、[自适应学习系统](../concepts/自适应学习系统/)
+
+## 来源
+
+- Khanmigo 官方介绍: https://blog.khanacademy.org/khan-academy-is-launching-a-limited-pilot-of-khanmigo/
+- Khanmigo 产品页面: https://www.khanacademy.org/khan-labs
+- 行业报道: https://techcrunch.com/2023/03/14/khan-academy-launches-khanmigo/
+
+---
+
+*页面创建于 2026-06-17*

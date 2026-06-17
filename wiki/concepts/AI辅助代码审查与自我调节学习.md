@@ -53,9 +53,9 @@ Student PR → LLM Reviewer → Structured Comments → Student Revision → (lo
 
 ## 相关概念
 
-- [[学习脚手架]]
-- [[AI写作辅助与拥有感]]
-- [[自我调节学习]]
+- [学习脚手架](../concepts/学习脚手架/)
+- [AI写作辅助与拥有感](../concepts/AI写作辅助与拥有感/)
+- [自我调节学习](自我调节学习/)
 
 ## 论文
 
