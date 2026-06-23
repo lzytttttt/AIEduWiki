@@ -154,6 +154,34 @@
         "metacognition",
         "learning-science"
       ]
+    },
+    {
+      "title": "隐藏误解检测",
+      "type": "concept"
+    },
+    {
+      "title": "测试驱动AI辅助学习",
+      "type": "concept"
+    },
+    {
+      "title": "学生AI使用感知与协作",
+      "type": "concept"
+    },
+    {
+      "title": "LLM教学质量评估对齐",
+      "type": "concept"
+    },
+    {
+      "title": "自适应CEFR分级文本生成",
+      "type": "concept"
+    },
+    {
+      "title": "NL2Scratch基准",
+      "type": "concept"
+    },
+    {
+      "title": "PeerMathDial协作数学对话数据集",
+      "type": "concept"
     }
   ],
   "technology": [

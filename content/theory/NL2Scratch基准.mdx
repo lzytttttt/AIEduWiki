@@ -1,0 +1,54 @@
+---
+title: NL2Scratch基准
+created: 2026-06-23
+updated: 2026-06-23
+type: concept
+tags: [benchmark, dataset, evaluation, coding-education, 编程教育, k12]
+sources: [raw/papers/2606.22061v1.md]
+---
+
+# NL2Scratch 基准
+
+## 定义
+
+NL2Scratch 是首个面向积木式编程（block-based programming，如 Scratch）的自然语言到代码生成基准，包含 311,648 个解析器验证的 NL-程序对。
+
+## 研究背景
+
+> **来源**: [arXiv:2606.22061](https://arxiv.org/abs/2606.22061)
+> **作者**: Heejin Do, Alexandre Ballenghien, Yang Wu, April Yi Wang
+> **日期**: 2026-06-20
+
+## 核心贡献
+
+### 基准规模
+- **311,648** 个 NL-程序对（parser-valid）
+- 覆盖 Scratch 编程的多种任务类型
+
+### 评估指标：SAC（Semantic Alignment Consistency）
+- 超越表面 token 重叠（如 BLEU），提供 slot-level 语义对齐评估
+- 可解释的指标：能指出哪些语义 slot 对齐/未对齐
+- 专门针对积木式编程的结构特征设计
+
+## 研究意义
+
+- NL2Code 研究此前集中在 text-based 语言（Python, Java），忽视了积木式编程
+- Scratch 是全球 K-12 编程教育的主流环境
+- 为 LLM 辅助编程教育提供了标准化评估基础
+
+## 与现有概念的关联
+
+- [[自动选择题生成]] — 同属教育内容自动生成
+- [[教育游戏自动生成]] — 积木式编程与教育游戏关联
+- [[教育合成数据基准]] — NL2Scratch 是编程教育领域的数据基准
+- [[AI辅助代码审查与自我调节学习]] — 编程教育的不同侧面
+
+## 开放问题
+
+- LLM 生成的 Scratch 程序是否 pedagogically appropriate？
+- 如何评估生成代码的教学价值（不仅仅是功能正确性）？
+- 能否扩展到其他积木式环境（如 Blockly, App Inventor）？
+
+---
+
+*页面创建于 2026-06-23，基于 arXiv:2606.22061*

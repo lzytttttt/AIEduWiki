@@ -118,7 +118,7 @@
       "type": "comparison",
       "color": "#F44336",
       "path": "insights/自适应学习框架对比.mdx",
-      "edges": 6
+      "edges": 7
     },
     {
       "id": "自适应学习系统演进",
@@ -145,14 +145,6 @@
       "edges": 0
     },
     {
-      "id": "CausaDisco",
-      "label": "CausaDisco",
-      "type": "entity",
-      "color": "#34A853",
-      "path": "products/CausaDisco.mdx",
-      "edges": 0
-    },
-    {
       "id": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
       "label": "CHI 会议 (ACM Conference on Human Factors in Computing Systems)",
       "type": "entity",
@@ -161,19 +153,27 @@
       "edges": 0
     },
     {
-      "id": "Chris Piech",
-      "label": "Chris Piech",
-      "type": "entity",
-      "color": "#34A853",
-      "path": "products/Chris-Piech.mdx",
-      "edges": 0
-    },
-    {
       "id": "CMU Learning Science Lab",
       "label": "CMU Learning Science Lab",
       "type": "entity",
       "color": "#34A853",
       "path": "products/CMU-Learning-Science.mdx",
+      "edges": 0
+    },
+    {
+      "id": "CausaDisco",
+      "label": "CausaDisco",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/CausaDisco.mdx",
+      "edges": 0
+    },
+    {
+      "id": "Chris Piech",
+      "label": "Chris Piech",
+      "type": "entity",
+      "color": "#34A853",
+      "path": "products/Chris-Piech.mdx",
       "edges": 0
     },
     {
@@ -366,7 +366,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "technology/教学智能体.mdx",
-      "edges": 3
+      "edges": 4
     },
     {
       "id": "知识追踪入门指南",
@@ -382,7 +382,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "technology/自动选择题生成.mdx",
-      "edges": 0
+      "edges": 3
     },
     {
       "id": "AI学术诚信与隐瞒行为",
@@ -390,7 +390,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/AI学术诚信与隐瞒行为.mdx",
-      "edges": 1
+      "edges": 2
     },
     {
       "id": "AI辅助代码审查与自我调节学习",
@@ -398,7 +398,31 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/AI辅助代码审查与自我调节学习.mdx",
-      "edges": 0
+      "edges": 2
+    },
+    {
+      "id": "LLM教学质量评估对齐",
+      "label": "LLM教学质量评估对齐",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/LLM教学质量评估对齐.mdx",
+      "edges": 4
+    },
+    {
+      "id": "NL2Scratch基准",
+      "label": "NL2Scratch基准",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/NL2Scratch基准.mdx",
+      "edges": 4
+    },
+    {
+      "id": "PeerMathDial协作数学对话数据集",
+      "label": "PeerMathDial协作数学对话数据集",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/PeerMathDial协作数学对话数据集.mdx",
+      "edges": 4
     },
     {
       "id": "STEM论证分组系统",
@@ -406,7 +430,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/STEM论证分组系统.mdx",
-      "edges": 0
+      "edges": 1
     },
     {
       "id": "个性化工作例生成",
@@ -422,7 +446,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/个性化问题生成.mdx",
-      "edges": 0
+      "edges": 2
     },
     {
       "id": "协作学习仿真",
@@ -430,7 +454,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/协作学习仿真.mdx",
-      "edges": 0
+      "edges": 2
     },
     {
       "id": "可解释学生行为诊断对话系统",
@@ -438,7 +462,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/可解释学生行为诊断对话系统.mdx",
-      "edges": 0
+      "edges": 2
     },
     {
       "id": "可解释教学编排",
@@ -454,7 +478,15 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/学习脚手架.mdx",
-      "edges": 0
+      "edges": 1
+    },
+    {
+      "id": "学生AI使用感知与协作",
+      "label": "学生AI使用感知与协作",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/学生AI使用感知与协作.mdx",
+      "edges": 4
     },
     {
       "id": "学生主导AI政策",
@@ -478,7 +510,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/教育公平与偏见.mdx",
-      "edges": 2
+      "edges": 4
     },
     {
       "id": "教育合成数据基准",
@@ -486,7 +518,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/教育合成数据基准.mdx",
-      "edges": 0
+      "edges": 2
     },
     {
       "id": "教育游戏自动生成",
@@ -494,7 +526,15 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/教育游戏自动生成.mdx",
-      "edges": 0
+      "edges": 1
+    },
+    {
+      "id": "测试驱动AI辅助学习",
+      "label": "测试驱动AI辅助学习",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/测试驱动AI辅助学习.mdx",
+      "edges": 4
     },
     {
       "id": "知识追踪",
@@ -502,7 +542,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/知识追踪.mdx",
-      "edges": 3
+      "edges": 6
     },
     {
       "id": "社会机器人与CASA范式",
@@ -513,12 +553,20 @@
       "edges": 0
     },
     {
+      "id": "自适应CEFR分级文本生成",
+      "label": "自适应CEFR分级文本生成",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/自适应CEFR分级文本生成.mdx",
+      "edges": 4
+    },
+    {
       "id": "自适应学习系统",
       "label": "自适应学习系统",
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/自适应学习系统.mdx",
-      "edges": 3
+      "edges": 6
     },
     {
       "id": "英语口语分级生成系统",
@@ -526,7 +574,7 @@
       "type": "concept",
       "color": "#4285F4",
       "path": "theory/英语口语分级生成系统.mdx",
-      "edges": 0
+      "edges": 1
     },
     {
       "id": "诊断推理与LLM智能体",
@@ -535,6 +583,14 @@
       "color": "#4285F4",
       "path": "theory/诊断推理与LLM智能体.mdx",
       "edges": 0
+    },
+    {
+      "id": "隐藏误解检测",
+      "label": "隐藏误解检测",
+      "type": "concept",
+      "color": "#4285F4",
+      "path": "theory/隐藏误解检测.mdx",
+      "edges": 4
     }
   ],
   "edges": [
@@ -672,13 +728,153 @@
       "from": "自适应学习框架对比",
       "to": "知识追踪",
       "type": "related"
+    },
+    {
+      "from": "LLM教学质量评估对齐",
+      "to": "教育合成数据基准",
+      "type": "related"
+    },
+    {
+      "from": "LLM教学质量评估对齐",
+      "to": "自动选择题生成",
+      "type": "related"
+    },
+    {
+      "from": "LLM教学质量评估对齐",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "LLM教学质量评估对齐",
+      "to": "教育公平与偏见",
+      "type": "related"
+    },
+    {
+      "from": "NL2Scratch基准",
+      "to": "自动选择题生成",
+      "type": "related"
+    },
+    {
+      "from": "NL2Scratch基准",
+      "to": "教育游戏自动生成",
+      "type": "related"
+    },
+    {
+      "from": "NL2Scratch基准",
+      "to": "教育合成数据基准",
+      "type": "related"
+    },
+    {
+      "from": "NL2Scratch基准",
+      "to": "AI辅助代码审查与自我调节学习",
+      "type": "related"
+    },
+    {
+      "from": "PeerMathDial协作数学对话数据集",
+      "to": "协作学习仿真",
+      "type": "related"
+    },
+    {
+      "from": "PeerMathDial协作数学对话数据集",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "PeerMathDial协作数学对话数据集",
+      "to": "STEM论证分组系统",
+      "type": "related"
+    },
+    {
+      "from": "PeerMathDial协作数学对话数据集",
+      "to": "可解释学生行为诊断对话系统",
+      "type": "related"
+    },
+    {
+      "from": "学生AI使用感知与协作",
+      "to": "协作学习仿真",
+      "type": "related"
+    },
+    {
+      "from": "学生AI使用感知与协作",
+      "to": "AI学术诚信与隐瞒行为",
+      "type": "related"
+    },
+    {
+      "from": "学生AI使用感知与协作",
+      "to": "教育公平与偏见",
+      "type": "related"
+    },
+    {
+      "from": "学生AI使用感知与协作",
+      "to": "AI辅助代码审查与自我调节学习",
+      "type": "related"
+    },
+    {
+      "from": "测试驱动AI辅助学习",
+      "to": "教学智能体",
+      "type": "related"
+    },
+    {
+      "from": "测试驱动AI辅助学习",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "测试驱动AI辅助学习",
+      "to": "自动选择题生成",
+      "type": "related"
+    },
+    {
+      "from": "测试驱动AI辅助学习",
+      "to": "学习脚手架",
+      "type": "related"
+    },
+    {
+      "from": "自适应CEFR分级文本生成",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "自适应CEFR分级文本生成",
+      "to": "英语口语分级生成系统",
+      "type": "related"
+    },
+    {
+      "from": "自适应CEFR分级文本生成",
+      "to": "个性化问题生成",
+      "type": "related"
+    },
+    {
+      "from": "自适应CEFR分级文本生成",
+      "to": "自适应学习框架对比",
+      "type": "related"
+    },
+    {
+      "from": "隐藏误解检测",
+      "to": "知识追踪",
+      "type": "related"
+    },
+    {
+      "from": "隐藏误解检测",
+      "to": "自适应学习系统",
+      "type": "related"
+    },
+    {
+      "from": "隐藏误解检测",
+      "to": "可解释学生行为诊断对话系统",
+      "type": "related"
+    },
+    {
+      "from": "隐藏误解检测",
+      "to": "个性化问题生成",
+      "type": "related"
     }
   ],
   "stats": {
-    "total_nodes": 67,
-    "total_edges": 27,
+    "total_nodes": 74,
+    "total_edges": 55,
     "node_types": {
-      "concept": 22,
+      "concept": 29,
       "entity": 27,
       "paper": 0,
       "timeline": 9,
